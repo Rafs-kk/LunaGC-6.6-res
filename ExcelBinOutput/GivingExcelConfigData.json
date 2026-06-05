@@ -25492,5 +25492,687 @@
     "mistakeTalkId": 0,
     "tab": "TAB_MATERIAL",
     "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 1,
+    "givingGroupIds": [
+      760510101
+    ],
+    "givingMethod": "GIVING_METHOD_VAGUE_GROUP",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "UI_Icon_Item_Temp",
+    "id": 7605101,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": true,
+    "tab": "TAB_MATERIAL",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 1,
+    "givingGroupIds": [
+      760600101
+    ],
+    "givingMethod": "GIVING_METHOD_VAGUE_GROUP",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "UI_Icon_Item_Temp",
+    "id": 7606001,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": true,
+    "tab": "TAB_MATERIAL",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 129003
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_EXACT",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7612003,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": false,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 18,
+        "id": 121463
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_EXACT",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7607102,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": true,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 3,
+    "givingGroupIds": [
+      761680201
+    ],
+    "givingMethod": "GIVING_METHOD_VAGUE_GROUP",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "UI_Icon_Item_Temp",
+    "id": 7616802,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": true,
+    "tab": "TAB_FOOD",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121536
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7008701,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121536
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7081701,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121536
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7081801,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121536
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7081901,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121536
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7082001,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121538
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7080801,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121537
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7080901,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121539
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7082601,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 100061
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7082701,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 108913
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7083401,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 108914
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7083402,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121537
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7080902,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 1,
+        "id": 121537
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_FAST",
+    "givingType": "GIVING_TYPE_QUEST",
+    "highlight": true,
+    "icon": "",
+    "id": 7080903,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": false,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 1,
+    "givingGroupIds": [
+      100001371
+    ],
+    "givingMethod": "GIVING_METHOD_GROUP",
+    "givingType": "GIVING_TYPE_GADGET",
+    "highlight": true,
+    "icon": "",
+    "id": 10000137,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": true,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": true,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 1,
+    "givingGroupIds": [
+      100001381
+    ],
+    "givingMethod": "GIVING_METHOD_GROUP",
+    "givingType": "GIVING_TYPE_GADGET",
+    "highlight": true,
+    "icon": "",
+    "id": 10000138,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": false,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": true,
+    "tab": "TAB_QUEST",
+    "talkId": 0
+  },
+  {
+    "exactFinishTalkId": 0,
+    "exactItems": [
+      {
+        "count": 5,
+        "id": 100084
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "givingGroupCount": 0,
+    "givingGroupIds": [],
+    "givingMethod": "GIVING_METHOD_EXACT",
+    "givingType": "GIVING_TYPE_GADGET",
+    "highlight": true,
+    "icon": "",
+    "id": 10000139,
+    "BCJFMCGNKAI": false,
+    "BEDMIHKLMLP": true,
+    "isRemoveItem": true,
+    "mistakeTalkId": 0,
+    "MAJNGBLPLKA": false,
+    "FDHLHJCOPNK": true,
+    "tab": "TAB_MATERIAL",
+    "talkId": 0
   }
 ]

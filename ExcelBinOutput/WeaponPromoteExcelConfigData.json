@@ -55211,5 +55211,8132 @@
     ],
     "unlockMaxLevel": 90,
     "requiredPlayerLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114065
+      },
+      {
+        "count": 5,
+        "id": 112119
+      },
+      {
+        "count": 3,
+        "id": 112101
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114066
+      },
+      {
+        "count": 18,
+        "id": 112119
+      },
+      {
+        "count": 12,
+        "id": 112101
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114066
+      },
+      {
+        "count": 9,
+        "id": 112120
+      },
+      {
+        "count": 9,
+        "id": 112102
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114067
+      },
+      {
+        "count": 18,
+        "id": 112120
+      },
+      {
+        "count": 14,
+        "id": 112102
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114067
+      },
+      {
+        "count": 14,
+        "id": 112121
+      },
+      {
+        "count": 9,
+        "id": 112103
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114068
+      },
+      {
+        "count": 27,
+        "id": 112121
+      },
+      {
+        "count": 18,
+        "id": 112103
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 13514
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114053
+      },
+      {
+        "count": 5,
+        "id": 112086
+      },
+      {
+        "count": 3,
+        "id": 112080
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 13514
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114054
+      },
+      {
+        "count": 18,
+        "id": 112086
+      },
+      {
+        "count": 12,
+        "id": 112080
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 13514
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114054
+      },
+      {
+        "count": 9,
+        "id": 112087
+      },
+      {
+        "count": 9,
+        "id": 112081
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 13514
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114055
+      },
+      {
+        "count": 18,
+        "id": 112087
+      },
+      {
+        "count": 14,
+        "id": 112081
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 13514
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114055
+      },
+      {
+        "count": 14,
+        "id": 112088
+      },
+      {
+        "count": 9,
+        "id": 112082
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 13514
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114056
+      },
+      {
+        "count": 27,
+        "id": 112088
+      },
+      {
+        "count": 18,
+        "id": 112082
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 13514
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 15432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114049
+      },
+      {
+        "count": 3,
+        "id": 112119
+      },
+      {
+        "count": 2,
+        "id": 112083
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 15432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114050
+      },
+      {
+        "count": 12,
+        "id": 112119
+      },
+      {
+        "count": 8,
+        "id": 112083
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 15432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114050
+      },
+      {
+        "count": 6,
+        "id": 112120
+      },
+      {
+        "count": 6,
+        "id": 112084
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 15432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114051
+      },
+      {
+        "count": 12,
+        "id": 112120
+      },
+      {
+        "count": 9,
+        "id": 112084
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 15432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114051
+      },
+      {
+        "count": 9,
+        "id": 112121
+      },
+      {
+        "count": 6,
+        "id": 112085
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 15432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114052
+      },
+      {
+        "count": 18,
+        "id": 112121
+      },
+      {
+        "count": 12,
+        "id": 112085
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 15432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 11517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114069
+      },
+      {
+        "count": 5,
+        "id": 112116
+      },
+      {
+        "count": 3,
+        "id": 112104
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 11517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114070
+      },
+      {
+        "count": 18,
+        "id": 112116
+      },
+      {
+        "count": 12,
+        "id": 112104
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 11517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114070
+      },
+      {
+        "count": 9,
+        "id": 112117
+      },
+      {
+        "count": 9,
+        "id": 112105
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 11517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114071
+      },
+      {
+        "count": 18,
+        "id": 112117
+      },
+      {
+        "count": 14,
+        "id": 112105
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 11517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114071
+      },
+      {
+        "count": 14,
+        "id": 112118
+      },
+      {
+        "count": 9,
+        "id": 112106
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 11517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114072
+      },
+      {
+        "count": 27,
+        "id": 112118
+      },
+      {
+        "count": 18,
+        "id": 112106
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 11517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 12432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114065
+      },
+      {
+        "count": 3,
+        "id": 112119
+      },
+      {
+        "count": 2,
+        "id": 112080
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 12432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114066
+      },
+      {
+        "count": 12,
+        "id": 112119
+      },
+      {
+        "count": 8,
+        "id": 112080
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 12432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114066
+      },
+      {
+        "count": 6,
+        "id": 112120
+      },
+      {
+        "count": 6,
+        "id": 112081
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 12432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114067
+      },
+      {
+        "count": 12,
+        "id": 112120
+      },
+      {
+        "count": 9,
+        "id": 112081
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 12432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114067
+      },
+      {
+        "count": 9,
+        "id": 112121
+      },
+      {
+        "count": 6,
+        "id": 112082
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 12432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114068
+      },
+      {
+        "count": 18,
+        "id": 112121
+      },
+      {
+        "count": 12,
+        "id": 112082
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 12432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 13515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114061
+      },
+      {
+        "count": 5,
+        "id": 112119
+      },
+      {
+        "count": 3,
+        "id": 112101
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 13515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114062
+      },
+      {
+        "count": 18,
+        "id": 112119
+      },
+      {
+        "count": 12,
+        "id": 112101
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 13515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114062
+      },
+      {
+        "count": 9,
+        "id": 112120
+      },
+      {
+        "count": 9,
+        "id": 112102
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 13515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114063
+      },
+      {
+        "count": 18,
+        "id": 112120
+      },
+      {
+        "count": 14,
+        "id": 112102
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 13515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114063
+      },
+      {
+        "count": 14,
+        "id": 112121
+      },
+      {
+        "count": 9,
+        "id": 112103
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 13515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114064
+      },
+      {
+        "count": 27,
+        "id": 112121
+      },
+      {
+        "count": 18,
+        "id": 112103
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 13515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 11433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114073
+      },
+      {
+        "count": 3,
+        "id": 112128
+      },
+      {
+        "count": 2,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 11433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114074
+      },
+      {
+        "count": 12,
+        "id": 112128
+      },
+      {
+        "count": 8,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 11433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114074
+      },
+      {
+        "count": 6,
+        "id": 112129
+      },
+      {
+        "count": 6,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 11433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114075
+      },
+      {
+        "count": 12,
+        "id": 112129
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 11433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114075
+      },
+      {
+        "count": 9,
+        "id": 112130
+      },
+      {
+        "count": 6,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 11433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114076
+      },
+      {
+        "count": 18,
+        "id": 112130
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 11433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 11434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114081
+      },
+      {
+        "count": 3,
+        "id": 112131
+      },
+      {
+        "count": 2,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 11434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114082
+      },
+      {
+        "count": 12,
+        "id": 112131
+      },
+      {
+        "count": 8,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 11434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114082
+      },
+      {
+        "count": 6,
+        "id": 112132
+      },
+      {
+        "count": 6,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 11434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114083
+      },
+      {
+        "count": 12,
+        "id": 112132
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 11434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114083
+      },
+      {
+        "count": 9,
+        "id": 112133
+      },
+      {
+        "count": 6,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 11434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114084
+      },
+      {
+        "count": 18,
+        "id": 112133
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 11434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 12433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114081
+      },
+      {
+        "count": 3,
+        "id": 112131
+      },
+      {
+        "count": 2,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 12433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114082
+      },
+      {
+        "count": 12,
+        "id": 112131
+      },
+      {
+        "count": 8,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 12433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114082
+      },
+      {
+        "count": 6,
+        "id": 112132
+      },
+      {
+        "count": 6,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 12433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114083
+      },
+      {
+        "count": 12,
+        "id": 112132
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 12433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114083
+      },
+      {
+        "count": 9,
+        "id": 112133
+      },
+      {
+        "count": 6,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 12433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114084
+      },
+      {
+        "count": 18,
+        "id": 112133
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 12433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 13433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114077
+      },
+      {
+        "count": 3,
+        "id": 112134
+      },
+      {
+        "count": 2,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 13433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114078
+      },
+      {
+        "count": 12,
+        "id": 112134
+      },
+      {
+        "count": 8,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 13433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114078
+      },
+      {
+        "count": 6,
+        "id": 112135
+      },
+      {
+        "count": 6,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 13433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114079
+      },
+      {
+        "count": 12,
+        "id": 112135
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 13433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114079
+      },
+      {
+        "count": 9,
+        "id": 112136
+      },
+      {
+        "count": 6,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 13433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114080
+      },
+      {
+        "count": 18,
+        "id": 112136
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 13433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 13516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114077
+      },
+      {
+        "count": 5,
+        "id": 112134
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 13516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114078
+      },
+      {
+        "count": 18,
+        "id": 112134
+      },
+      {
+        "count": 12,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 13516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114078
+      },
+      {
+        "count": 9,
+        "id": 112135
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 13516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114079
+      },
+      {
+        "count": 18,
+        "id": 112135
+      },
+      {
+        "count": 14,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 13516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114079
+      },
+      {
+        "count": 14,
+        "id": 112136
+      },
+      {
+        "count": 9,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 13516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114080
+      },
+      {
+        "count": 27,
+        "id": 112136
+      },
+      {
+        "count": 18,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 13516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114081
+      },
+      {
+        "count": 3,
+        "id": 112131
+      },
+      {
+        "count": 2,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114082
+      },
+      {
+        "count": 12,
+        "id": 112131
+      },
+      {
+        "count": 8,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114082
+      },
+      {
+        "count": 6,
+        "id": 112132
+      },
+      {
+        "count": 6,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114083
+      },
+      {
+        "count": 12,
+        "id": 112132
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114083
+      },
+      {
+        "count": 9,
+        "id": 112133
+      },
+      {
+        "count": 6,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114084
+      },
+      {
+        "count": 18,
+        "id": 112133
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14432
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114073
+      },
+      {
+        "count": 3,
+        "id": 112128
+      },
+      {
+        "count": 2,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114074
+      },
+      {
+        "count": 12,
+        "id": 112128
+      },
+      {
+        "count": 8,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114074
+      },
+      {
+        "count": 6,
+        "id": 112129
+      },
+      {
+        "count": 6,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114075
+      },
+      {
+        "count": 12,
+        "id": 112129
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114075
+      },
+      {
+        "count": 9,
+        "id": 112130
+      },
+      {
+        "count": 6,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114076
+      },
+      {
+        "count": 18,
+        "id": 112130
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14520
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114073
+      },
+      {
+        "count": 5,
+        "id": 112128
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14520
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114074
+      },
+      {
+        "count": 18,
+        "id": 112128
+      },
+      {
+        "count": 12,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14520
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114074
+      },
+      {
+        "count": 9,
+        "id": 112129
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14520
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114075
+      },
+      {
+        "count": 18,
+        "id": 112129
+      },
+      {
+        "count": 14,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14520
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114075
+      },
+      {
+        "count": 14,
+        "id": 112130
+      },
+      {
+        "count": 9,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14520
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114076
+      },
+      {
+        "count": 27,
+        "id": 112130
+      },
+      {
+        "count": 18,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14520
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 15433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114077
+      },
+      {
+        "count": 3,
+        "id": 112134
+      },
+      {
+        "count": 2,
+        "id": 112011
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 15433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114078
+      },
+      {
+        "count": 12,
+        "id": 112134
+      },
+      {
+        "count": 8,
+        "id": 112011
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 15433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114078
+      },
+      {
+        "count": 6,
+        "id": 112135
+      },
+      {
+        "count": 6,
+        "id": 112012
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 15433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114079
+      },
+      {
+        "count": 12,
+        "id": 112135
+      },
+      {
+        "count": 9,
+        "id": 112012
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 15433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114079
+      },
+      {
+        "count": 9,
+        "id": 112136
+      },
+      {
+        "count": 6,
+        "id": 112013
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 15433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114080
+      },
+      {
+        "count": 18,
+        "id": 112136
+      },
+      {
+        "count": 12,
+        "id": 112013
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 15433
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 13434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114077
+      },
+      {
+        "count": 3,
+        "id": 112134
+      },
+      {
+        "count": 2,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 13434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114078
+      },
+      {
+        "count": 12,
+        "id": 112134
+      },
+      {
+        "count": 8,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 13434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114078
+      },
+      {
+        "count": 6,
+        "id": 112135
+      },
+      {
+        "count": 6,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 13434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114079
+      },
+      {
+        "count": 12,
+        "id": 112135
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 13434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114079
+      },
+      {
+        "count": 9,
+        "id": 112136
+      },
+      {
+        "count": 6,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 13434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114080
+      },
+      {
+        "count": 18,
+        "id": 112136
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 13434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114073
+      },
+      {
+        "count": 3,
+        "id": 112128
+      },
+      {
+        "count": 2,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114074
+      },
+      {
+        "count": 12,
+        "id": 112128
+      },
+      {
+        "count": 8,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114074
+      },
+      {
+        "count": 6,
+        "id": 112129
+      },
+      {
+        "count": 6,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114075
+      },
+      {
+        "count": 12,
+        "id": 112129
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114075
+      },
+      {
+        "count": 9,
+        "id": 112130
+      },
+      {
+        "count": 6,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114076
+      },
+      {
+        "count": 18,
+        "id": 112130
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14521
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114041
+      },
+      {
+        "count": 5,
+        "id": 112131
+      },
+      {
+        "count": 3,
+        "id": 112059
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14521
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114042
+      },
+      {
+        "count": 18,
+        "id": 112131
+      },
+      {
+        "count": 12,
+        "id": 112059
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14521
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114042
+      },
+      {
+        "count": 9,
+        "id": 112132
+      },
+      {
+        "count": 9,
+        "id": 112060
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14521
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114043
+      },
+      {
+        "count": 18,
+        "id": 112132
+      },
+      {
+        "count": 14,
+        "id": 112060
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14521
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114043
+      },
+      {
+        "count": 14,
+        "id": 112133
+      },
+      {
+        "count": 9,
+        "id": 112061
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14521
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114044
+      },
+      {
+        "count": 27,
+        "id": 112133
+      },
+      {
+        "count": 18,
+        "id": 112061
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14521
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 11518
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114001
+      },
+      {
+        "count": 5,
+        "id": 112128
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 11518
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114002
+      },
+      {
+        "count": 18,
+        "id": 112128
+      },
+      {
+        "count": 12,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 11518
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114002
+      },
+      {
+        "count": 9,
+        "id": 112129
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 11518
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114003
+      },
+      {
+        "count": 18,
+        "id": 112129
+      },
+      {
+        "count": 14,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 11518
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114003
+      },
+      {
+        "count": 14,
+        "id": 112130
+      },
+      {
+        "count": 9,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 11518
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114004
+      },
+      {
+        "count": 27,
+        "id": 112130
+      },
+      {
+        "count": 18,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 11518
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 15434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 5000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114069
+      },
+      {
+        "count": 3,
+        "id": 112116
+      },
+      {
+        "count": 2,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 15434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.9
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 15000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114070
+      },
+      {
+        "count": 12,
+        "id": 112116
+      },
+      {
+        "count": 8,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 15434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.8
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114070
+      },
+      {
+        "count": 6,
+        "id": 112117
+      },
+      {
+        "count": 6,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 15434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 103.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 114071
+      },
+      {
+        "count": 12,
+        "id": 112117
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 15434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 129.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 35000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114071
+      },
+      {
+        "count": 9,
+        "id": 112118
+      },
+      {
+        "count": 6,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 15434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 4,
+        "id": 114072
+      },
+      {
+        "count": 18,
+        "id": 112118
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 15434
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 15515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114009
+      },
+      {
+        "count": 5,
+        "id": 112014
+      },
+      {
+        "count": 3,
+        "id": 112035
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 15515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114010
+      },
+      {
+        "count": 18,
+        "id": 112014
+      },
+      {
+        "count": 12,
+        "id": 112035
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 15515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114010
+      },
+      {
+        "count": 9,
+        "id": 112015
+      },
+      {
+        "count": 9,
+        "id": 112036
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 15515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114011
+      },
+      {
+        "count": 18,
+        "id": 112015
+      },
+      {
+        "count": 14,
+        "id": 112036
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 15515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114011
+      },
+      {
+        "count": 14,
+        "id": 112016
+      },
+      {
+        "count": 9,
+        "id": 112037
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 15515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114012
+      },
+      {
+        "count": 27,
+        "id": 112016
+      },
+      {
+        "count": 18,
+        "id": 112037
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 15515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 11519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114021
+      },
+      {
+        "count": 5,
+        "id": 112134
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 11519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114022
+      },
+      {
+        "count": 18,
+        "id": 112134
+      },
+      {
+        "count": 12,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 11519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114022
+      },
+      {
+        "count": 9,
+        "id": 112135
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 11519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114023
+      },
+      {
+        "count": 18,
+        "id": 112135
+      },
+      {
+        "count": 14,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 11519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114023
+      },
+      {
+        "count": 14,
+        "id": 112136
+      },
+      {
+        "count": 9,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 11519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114024
+      },
+      {
+        "count": 27,
+        "id": 112136
+      },
+      {
+        "count": 18,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 11519
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14522
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114081
+      },
+      {
+        "count": 5,
+        "id": 112137
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14522
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114082
+      },
+      {
+        "count": 18,
+        "id": 112137
+      },
+      {
+        "count": 12,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14522
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114082
+      },
+      {
+        "count": 9,
+        "id": 112138
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14522
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114083
+      },
+      {
+        "count": 18,
+        "id": 112138
+      },
+      {
+        "count": 14,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14522
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114083
+      },
+      {
+        "count": 14,
+        "id": 112139
+      },
+      {
+        "count": 9,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14522
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114084
+      },
+      {
+        "count": 27,
+        "id": 112139
+      },
+      {
+        "count": 18,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14522
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 12515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114005
+      },
+      {
+        "count": 5,
+        "id": 112137
+      },
+      {
+        "count": 3,
+        "id": 112032
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 12515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114006
+      },
+      {
+        "count": 18,
+        "id": 112137
+      },
+      {
+        "count": 12,
+        "id": 112032
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 12515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114006
+      },
+      {
+        "count": 9,
+        "id": 112138
+      },
+      {
+        "count": 9,
+        "id": 112033
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 12515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114007
+      },
+      {
+        "count": 18,
+        "id": 112138
+      },
+      {
+        "count": 14,
+        "id": 112033
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 12515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114007
+      },
+      {
+        "count": 14,
+        "id": 112139
+      },
+      {
+        "count": 9,
+        "id": 112034
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 12515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114008
+      },
+      {
+        "count": 27,
+        "id": 112139
+      },
+      {
+        "count": 18,
+        "id": 112034
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 12515
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 15516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114077
+      },
+      {
+        "count": 5,
+        "id": 112140
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 15516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114078
+      },
+      {
+        "count": 18,
+        "id": 112140
+      },
+      {
+        "count": 12,
+        "id": 112125
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 15516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114078
+      },
+      {
+        "count": 9,
+        "id": 112141
+      },
+      {
+        "count": 9,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 15516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114079
+      },
+      {
+        "count": 18,
+        "id": 112141
+      },
+      {
+        "count": 14,
+        "id": 112126
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 15516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114079
+      },
+      {
+        "count": 14,
+        "id": 112142
+      },
+      {
+        "count": 9,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 15516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114080
+      },
+      {
+        "count": 27,
+        "id": 112142
+      },
+      {
+        "count": 18,
+        "id": 112127
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 15516
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 13517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114001
+      },
+      {
+        "count": 5,
+        "id": 112131
+      },
+      {
+        "count": 3,
+        "id": 112038
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 13517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114002
+      },
+      {
+        "count": 18,
+        "id": 112131
+      },
+      {
+        "count": 12,
+        "id": 112038
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 13517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114002
+      },
+      {
+        "count": 9,
+        "id": 112132
+      },
+      {
+        "count": 9,
+        "id": 112039
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 13517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114003
+      },
+      {
+        "count": 18,
+        "id": 112132
+      },
+      {
+        "count": 14,
+        "id": 112039
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 13517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114003
+      },
+      {
+        "count": 14,
+        "id": 112133
+      },
+      {
+        "count": 9,
+        "id": 112040
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 13517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114004
+      },
+      {
+        "count": 27,
+        "id": 112133
+      },
+      {
+        "count": 18,
+        "id": 112040
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 13517
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 0,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "unlockMaxLevel": 20,
+    "weaponPromoteId": 14523
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 10000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114073
+      },
+      {
+        "count": 5,
+        "id": 112140
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "unlockMaxLevel": 40,
+    "weaponPromoteId": 14523
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 20000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114074
+      },
+      {
+        "count": 18,
+        "id": 112140
+      },
+      {
+        "count": 12,
+        "id": 112122
+      }
+    ],
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "unlockMaxLevel": 50,
+    "weaponPromoteId": 14523
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 30000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114074
+      },
+      {
+        "count": 9,
+        "id": 112141
+      },
+      {
+        "count": 9,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "unlockMaxLevel": 60,
+    "weaponPromoteId": 14523
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 45000,
+    "costItems": [
+      {
+        "count": 5,
+        "id": 114075
+      },
+      {
+        "count": 18,
+        "id": 112141
+      },
+      {
+        "count": 14,
+        "id": 112123
+      }
+    ],
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "unlockMaxLevel": 70,
+    "weaponPromoteId": 14523
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 55000,
+    "costItems": [
+      {
+        "count": 9,
+        "id": 114075
+      },
+      {
+        "count": 14,
+        "id": 112142
+      },
+      {
+        "count": 9,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "unlockMaxLevel": 80,
+    "weaponPromoteId": 14523
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "coinCost": 65000,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 114076
+      },
+      {
+        "count": 27,
+        "id": 112142
+      },
+      {
+        "count": 18,
+        "id": 112124
+      }
+    ],
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "unlockMaxLevel": 90,
+    "weaponPromoteId": 14523
   }
 ]

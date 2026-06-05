@@ -14931,5 +14931,237 @@
     ],
     "weaponType": "WEAPON_SWORD_ONE_HAND",
     "weight": 1
+  },
+  {
+    "awakenCosts": [
+      2000,
+      4000,
+      8000,
+      16000
+    ],
+    "awakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
+    "awakenLightMapTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_FairyGarden/Equip_Catalyst_FairyGarden_OverrideTexture/Equip_Catalyst_FairyGarden_02_Tex_Lightmap",
+    "awakenMaterial": 0,
+    "awakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_FairyGarden/Equip_Catalyst_FairyGarden_OverrideTexture/Equip_Catalyst_FairyGarden_02_Tex_Diffuse",
+    "descTextMapHash": 327561421,
+    "destroyReturnMaterial": [
+      0
+    ],
+    "destroyReturnMaterialCount": [
+      0
+    ],
+    "destroyRule": "DESTROY_NONE",
+    "dropable": false,
+    "gachaCardNameHash": 4827624099653654965,
+    "gadgetId": 50014523,
+    "globalItemLimit": 0,
+    "icon": "UI_EquipIcon_Catalyst_FairyGarden",
+    "id": 14523,
+    "initialLockState": 1,
+    "itemType": "ITEM_WEAPON",
+    "DDKMEOABLMD": "None",
+    "HMMIIADPCNP": 0,
+    "materialType": "WEAPON_MATERIAL_NONE",
+    "nameTextMapHash": 1871665507,
+    "IEIEFIGAPHD": false,
+    "rank": 10,
+    "rankLevel": 5,
+    "skillAffix": [
+      114523,
+      0
+    ],
+    "storyId": 194523,
+    "unRotate": false,
+    "useLevel": 0,
+    "weaponBaseExp": 300000,
+    "weaponPromoteId": 14523,
+    "weaponProp": [
+      {
+        "initValue": 49.1377,
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "type": "GROW_CURVE_ATTACK_303"
+      },
+      {
+        "initValue": 0.036,
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "weaponType": "WEAPON_CATALYST",
+    "weight": 1
+  },
+  {
+    "awakenCosts": [
+      2000,
+      4000,
+      8000,
+      16000
+    ],
+    "awakenIcon": "UI_EquipIcon_Bow_Alkonost_Awaken",
+    "awakenLightMapTexture": "ART/Equip/AvatarEquip/Equip_Bow_Alkonost/Equip_Bow_Alkonost_OverrideTexture/Equip_Bow_Alkonost_02_Tex_Lightmap",
+    "awakenMaterial": 0,
+    "awakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Alkonost/Equip_Bow_Alkonost_OverrideTexture/Equip_Bow_Alkonost_02_Tex_Diffuse",
+    "descTextMapHash": 868357181,
+    "destroyReturnMaterial": [
+      0
+    ],
+    "destroyReturnMaterialCount": [
+      0
+    ],
+    "destroyRule": "DESTROY_NONE",
+    "dropable": false,
+    "gachaCardNameHash": 9029112974610145614,
+    "gadgetId": 50015516,
+    "globalItemLimit": 0,
+    "icon": "UI_EquipIcon_Bow_Alkonost",
+    "id": 15516,
+    "initialLockState": 1,
+    "itemType": "ITEM_WEAPON",
+    "DDKMEOABLMD": "None",
+    "HMMIIADPCNP": 0,
+    "materialType": "WEAPON_MATERIAL_NONE",
+    "nameTextMapHash": 2250670211,
+    "IEIEFIGAPHD": false,
+    "rank": 10,
+    "rankLevel": 5,
+    "skillAffix": [
+      115516,
+      0
+    ],
+    "storyId": 195516,
+    "unRotate": false,
+    "useLevel": 0,
+    "weaponBaseExp": 300000,
+    "weaponPromoteId": 15516,
+    "weaponProp": [
+      {
+        "initValue": 44.3358,
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "type": "GROW_CURVE_ATTACK_304"
+      },
+      {
+        "initValue": 0.192,
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "weaponType": "WEAPON_BOW",
+    "weight": 1
+  },
+  {
+    "awakenCosts": [
+      2000,
+      4000,
+      8000,
+      16000
+    ],
+    "awakenIcon": "UI_EquipIcon_Pole_Carbine_Awaken",
+    "awakenLightMapTexture": "ART/Equip/AvatarEquip/Equip_Pole_Carbine/Equip_Pole_Carbine_OverrideTexture/Equip_Pole_Carbine_02_Tex_Lightmap",
+    "awakenMaterial": 0,
+    "awakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Carbine/Equip_Pole_Carbine_OverrideTexture/Equip_Pole_Carbine_02_Tex_Diffuse",
+    "descTextMapHash": 889674997,
+    "destroyReturnMaterial": [
+      0
+    ],
+    "destroyReturnMaterialCount": [
+      0
+    ],
+    "destroyRule": "DESTROY_NONE",
+    "dropable": false,
+    "gachaCardNameHash": 3646017126253259816,
+    "gadgetId": 50013517,
+    "globalItemLimit": 0,
+    "icon": "UI_EquipIcon_Pole_Carbine",
+    "id": 13517,
+    "initialLockState": 1,
+    "itemType": "ITEM_WEAPON",
+    "DDKMEOABLMD": "None",
+    "HMMIIADPCNP": 0,
+    "materialType": "WEAPON_MATERIAL_NONE",
+    "nameTextMapHash": 3376210043,
+    "IEIEFIGAPHD": false,
+    "rank": 10,
+    "rankLevel": 5,
+    "skillAffix": [
+      113517,
+      0
+    ],
+    "storyId": 193517,
+    "unRotate": false,
+    "useLevel": 0,
+    "weaponBaseExp": 300000,
+    "weaponPromoteId": 13517,
+    "weaponProp": [
+      {
+        "initValue": 47.537,
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "type": "GROW_CURVE_ATTACK_302"
+      },
+      {
+        "initValue": 0.048,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "weaponType": "WEAPON_POLE",
+    "weight": 1
+  },
+  {
+    "awakenCosts": [
+      2000,
+      4000,
+      8000,
+      16000
+    ],
+    "awakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+    "awakenLightMapTexture": "ART/Equip/AvatarEquip/Equip_Claymore_EnsisAquilonis/Equip_Claymore_EnsisAquilonis_OverrideTexture/Equip_Claymore_EnsisAquilonis_02_Tex_Lightmap",
+    "awakenMaterial": 0,
+    "awakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_EnsisAquilonis/Equip_Claymore_EnsisAquilonis_OverrideTexture/Equip_Claymore_EnsisAquilonis_02_Tex_Diffuse",
+    "descTextMapHash": 839363629,
+    "destroyReturnMaterial": [
+      0
+    ],
+    "destroyReturnMaterialCount": [
+      0
+    ],
+    "destroyRule": "DESTROY_NONE",
+    "dropable": false,
+    "gachaCardNameHash": 16053290862624865165,
+    "gadgetId": 50012515,
+    "globalItemLimit": 0,
+    "icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+    "id": 12515,
+    "initialLockState": 1,
+    "itemType": "ITEM_WEAPON",
+    "DDKMEOABLMD": "None",
+    "HMMIIADPCNP": 0,
+    "materialType": "WEAPON_MATERIAL_NONE",
+    "nameTextMapHash": 3121311955,
+    "IEIEFIGAPHD": false,
+    "rank": 10,
+    "rankLevel": 5,
+    "skillAffix": [
+      112515,
+      0
+    ],
+    "storyId": 192515,
+    "unRotate": false,
+    "useLevel": 0,
+    "weaponBaseExp": 300000,
+    "weaponPromoteId": 12515,
+    "weaponProp": [
+      {
+        "initValue": 45.9364,
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "type": "GROW_CURVE_ATTACK_301"
+      },
+      {
+        "initValue": 0.072,
+        "propType": "FIGHT_PROP_CRITICAL",
+        "type": "GROW_CURVE_CRITICAL_301"
+      }
+    ],
+    "weaponType": "WEAPON_CLAYMORE",
+    "weight": 1
   }
 ]

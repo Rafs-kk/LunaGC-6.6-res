@@ -1527,5 +1527,113 @@
       714505142,
       3191443955
     ]
+  },
+  {
+    "bagSortValue": 58,
+    "DFGNDLNPOIJ": 5,
+    "containsList": [
+      43442,
+      43422,
+      43452,
+      43412,
+      43432
+    ],
+    "disableFilter": 0,
+    "dungeonGroup": [
+      4685,
+      4686
+    ],
+    "equipAffixId": 215043,
+    "setIcon": "UI_RelicIcon_15043_4",
+    "setId": 15043,
+    "setNeedNum": [
+      2,
+      4
+    ],
+    "textList": [
+      2405070222,
+      1347863571
+    ]
+  },
+  {
+    "bagSortValue": 59,
+    "DFGNDLNPOIJ": 5,
+    "containsList": [
+      44442,
+      44422,
+      44452,
+      44412,
+      44432
+    ],
+    "disableFilter": 0,
+    "dungeonGroup": [
+      4685,
+      4686
+    ],
+    "equipAffixId": 215044,
+    "setIcon": "UI_RelicIcon_15044_4",
+    "setId": 15044,
+    "setNeedNum": [
+      2,
+      4
+    ],
+    "textList": [
+      2632660462,
+      1510524155
+    ]
+  },
+  {
+    "bagSortValue": 60,
+    "DFGNDLNPOIJ": 5,
+    "containsList": [
+      45442,
+      45422,
+      45452,
+      45412,
+      45432
+    ],
+    "disableFilter": 0,
+    "dungeonGroup": [
+      4689,
+      4690
+    ],
+    "equipAffixId": 215045,
+    "setIcon": "UI_RelicIcon_15045_4",
+    "setId": 15045,
+    "setNeedNum": [
+      2,
+      4
+    ],
+    "textList": [
+      3301767438,
+      2574525715
+    ]
+  },
+  {
+    "bagSortValue": 61,
+    "DFGNDLNPOIJ": 5,
+    "containsList": [
+      46442,
+      46422,
+      46452,
+      46412,
+      46432
+    ],
+    "disableFilter": 0,
+    "dungeonGroup": [
+      4689,
+      4690
+    ],
+    "equipAffixId": 215046,
+    "setIcon": "UI_RelicIcon_15046_4",
+    "setId": 15046,
+    "setNeedNum": [
+      2,
+      4
+    ],
+    "textList": [
+      2419228766,
+      1970040107
+    ]
   }
 ]

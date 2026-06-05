@@ -168,5 +168,45 @@
     "AHABKGDOAOL": false,
     "featureTagGroupID": 0,
     "id": 45005002
+  },
+  {
+    "featureTagGroupID": 30000011,
+    "AHABKGDOAOL": true,
+    "id": 45003111
+  },
+  {
+    "featureTagGroupID": 30000012,
+    "AHABKGDOAOL": true,
+    "id": 45003121
+  },
+  {
+    "featureTagGroupID": 30000013,
+    "AHABKGDOAOL": true,
+    "id": 45003131
+  },
+  {
+    "featureTagGroupID": 30000015,
+    "AHABKGDOAOL": true,
+    "id": 45003151
+  },
+  {
+    "featureTagGroupID": 30000016,
+    "AHABKGDOAOL": true,
+    "id": 45003161
+  },
+  {
+    "featureTagGroupID": 0,
+    "AHABKGDOAOL": false,
+    "id": 45003201
+  },
+  {
+    "featureTagGroupID": 0,
+    "AHABKGDOAOL": false,
+    "id": 45006001
+  },
+  {
+    "featureTagGroupID": 0,
+    "AHABKGDOAOL": false,
+    "id": 45007001
   }
 ]

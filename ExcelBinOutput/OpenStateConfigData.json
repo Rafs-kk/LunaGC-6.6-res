@@ -10118,5 +10118,2125 @@
     "id": 6024,
     "KEHFFHKJIFG": false,
     "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6109,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6121,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6122,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_OFFERING_LEVEL",
+        "param": 16,
+        "param2": 10
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6505,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6506,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7667311,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+        "param": 28,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6314,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7667510,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+        "param": 28,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6315,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7667110,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+        "param": 28,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6316,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6317,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6318,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6319,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 7006547,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6502,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 36
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6504,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 35802,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6101,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 31
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6105,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_BEYOND_LEVEL",
+        "param": 3,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6107,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6112,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6116,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6114,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6115,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6330,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6332,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6507,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6111,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_BEYOND_LEVEL",
+        "param": 1,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6108,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6124,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 35802,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6113,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6118,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6117,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6123,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6205,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6206,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6204,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6207,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6208,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6209,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6210,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+        "param": 28,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 102510,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6302,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6303,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6331,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6304,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6305,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6306,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6307,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6308,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6309,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6310,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6311,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6312,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6313,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6320,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6321,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+        "param": 26,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6301,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 35
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6326,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6327,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6322,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6323,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6324,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6325,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6342,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6328,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6211,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6329,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6401,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6333,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6402,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6403,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6335,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6336,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6334,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6337,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6338,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6339,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6340,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6341,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6343,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6410,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6412,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6413,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6411,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6404,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6405,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6500,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6501,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6503,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6420,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6508,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6601,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": false,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_PLAYER_LEVEL",
+        "param": 28,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_QUEST",
+        "param": 102510,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6602,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6509,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6510,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6511,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6512,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6513,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6126,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6127,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6514,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6515,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6604,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": true,
+    "KEHFFHKJIFG": false,
+    "id": 6605,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6603,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6606,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6104,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6119,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6120,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
+  },
+  {
+    "allowClientOpen": true,
+    "cond": [
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      },
+      {
+        "condType": "OPEN_STATE_COND_NONE",
+        "param": 0,
+        "param2": 0
+      }
+    ],
+    "defaultState": false,
+    "KEHFFHKJIFG": false,
+    "id": 6125,
+    "HDBLCAHEGEA": false,
+    "systemOpenUiId": 0
   }
 ]

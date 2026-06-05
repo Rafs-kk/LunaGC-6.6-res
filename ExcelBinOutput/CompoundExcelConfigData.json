@@ -2850,5 +2850,51 @@
     "queueSize": 99,
     "rankLevel": 1,
     "type": "COMPOUND_COOK"
+  },
+  {
+    "costTime": 180,
+    "countDescTextMapHash": 1317308461,
+    "descTextMapHash": 3239854151,
+    "dropId": 0,
+    "groupID": 3,
+    "icon": "UI_ItemIcon_100084",
+    "id": 1063,
+    "inputVec": [
+      {
+        "count": 1,
+        "id": 131053
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "isDefaultUnlocked": false,
+    "nameTextMapHash": 1653316836,
+    "outputVec": [
+      {
+        "count": 3,
+        "id": 100084
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "queueSize": 99,
+    "rankLevel": 1,
+    "type": "COMPOUND_COOK"
   }
 ]

@@ -20761,5 +20761,2633 @@
       "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
       "19:100"
     ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          233827003,
+          3024,
+          20
+        ],
+        "argumentListUpper": [
+          233827003,
+          3024,
+          20
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233827003,
+          3024,
+          40
+        ],
+        "argumentListUpper": [
+          233827003,
+          3024,
+          40
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233827003,
+          3024,
+          60
+        ],
+        "argumentListUpper": [
+          233827003,
+          3024,
+          60
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      }
+    ],
+    "dungeonId": 3189,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT7",
+    "levelGroupId": 116,
+    "levelId": 346,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3190,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT7",
+    "levelGroupId": 116,
+    "levelId": 347,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3191,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT7",
+    "levelGroupId": 116,
+    "levelId": 348,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3192,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT7",
+    "levelGroupId": 117,
+    "levelId": 349,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3193,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT7",
+    "levelGroupId": 117,
+    "levelId": 350,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3194,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT7",
+    "levelGroupId": 117,
+    "levelId": 351,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          233833003,
+          3024,
+          20
+        ],
+        "argumentListUpper": [
+          233833003,
+          3024,
+          20
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233833003,
+          3024,
+          40
+        ],
+        "argumentListUpper": [
+          233833003,
+          3024,
+          40
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233833003,
+          3024,
+          60
+        ],
+        "argumentListUpper": [
+          233833003,
+          3024,
+          60
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      }
+    ],
+    "dungeonId": 3195,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT8",
+    "levelGroupId": 118,
+    "levelId": 352,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3196,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT8",
+    "levelGroupId": 118,
+    "levelId": 353,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3197,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT8",
+    "levelGroupId": 118,
+    "levelId": 354,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3198,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT8",
+    "levelGroupId": 119,
+    "levelId": 355,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3199,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT8",
+    "levelGroupId": 119,
+    "levelId": 356,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3259,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT8",
+    "levelGroupId": 119,
+    "levelId": 357,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3260,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT9",
+    "levelGroupId": 120,
+    "levelId": 358,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3261,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT9",
+    "levelGroupId": 120,
+    "levelId": 359,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3262,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT9",
+    "levelGroupId": 120,
+    "levelId": 360,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3263,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT9",
+    "levelGroupId": 121,
+    "levelId": 361,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3264,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT9",
+    "levelGroupId": 121,
+    "levelId": 362,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3265,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT9",
+    "levelGroupId": 121,
+    "levelId": 363,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          233845003,
+          3024,
+          20
+        ],
+        "argumentListUpper": [
+          233845003,
+          3024,
+          20
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233845003,
+          3024,
+          40
+        ],
+        "argumentListUpper": [
+          233845003,
+          3024,
+          40
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233845003,
+          3024,
+          60
+        ],
+        "argumentListUpper": [
+          233845003,
+          3024,
+          60
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      }
+    ],
+    "dungeonId": 3266,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT10",
+    "levelGroupId": 122,
+    "levelId": 364,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3267,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT10",
+    "levelGroupId": 122,
+    "levelId": 365,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3268,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT10",
+    "levelGroupId": 122,
+    "levelId": 366,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3269,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT10",
+    "levelGroupId": 123,
+    "levelId": 367,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3270,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT10",
+    "levelGroupId": 123,
+    "levelId": 368,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3271,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT10",
+    "levelGroupId": 123,
+    "levelId": 369,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          233851003,
+          3024,
+          20
+        ],
+        "argumentListUpper": [
+          233851003,
+          3024,
+          20
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233851003,
+          3024,
+          40
+        ],
+        "argumentListUpper": [
+          233851003,
+          3024,
+          40
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233851003,
+          3024,
+          60
+        ],
+        "argumentListUpper": [
+          233851003,
+          3024,
+          60
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      }
+    ],
+    "dungeonId": 3272,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT11",
+    "levelGroupId": 124,
+    "levelId": 370,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3273,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT11",
+    "levelGroupId": 124,
+    "levelId": 371,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3274,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT11",
+    "levelGroupId": 124,
+    "levelId": 372,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3275,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT11",
+    "levelGroupId": 125,
+    "levelId": 373,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3276,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT11",
+    "levelGroupId": 125,
+    "levelId": 374,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3277,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT11",
+    "levelGroupId": 125,
+    "levelId": 375,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3278,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT12",
+    "levelGroupId": 126,
+    "levelId": 376,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3279,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT12",
+    "levelGroupId": 126,
+    "levelId": 377,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3280,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT12",
+    "levelGroupId": 126,
+    "levelId": 378,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3281,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT12",
+    "levelGroupId": 127,
+    "levelId": 379,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3282,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT12",
+    "levelGroupId": 127,
+    "levelId": 380,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3283,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT12",
+    "levelGroupId": 127,
+    "levelId": 381,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          233863003,
+          3024,
+          20
+        ],
+        "argumentListUpper": [
+          233863003,
+          3024,
+          20
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233863003,
+          3024,
+          40
+        ],
+        "argumentListUpper": [
+          233863003,
+          3024,
+          40
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233863003,
+          3024,
+          60
+        ],
+        "argumentListUpper": [
+          233863003,
+          3024,
+          60
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      }
+    ],
+    "dungeonId": 3284,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT13",
+    "levelGroupId": 128,
+    "levelId": 382,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3285,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT13",
+    "levelGroupId": 128,
+    "levelId": 383,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3286,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT13",
+    "levelGroupId": 128,
+    "levelId": 384,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3287,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT13",
+    "levelGroupId": 129,
+    "levelId": 385,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3288,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT13",
+    "levelGroupId": 129,
+    "levelId": 386,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3289,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT13",
+    "levelGroupId": 129,
+    "levelId": 387,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          233869003,
+          3024,
+          20
+        ],
+        "argumentListUpper": [
+          233869003,
+          3024,
+          20
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233869003,
+          3024,
+          40
+        ],
+        "argumentListUpper": [
+          233869003,
+          3024,
+          40
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      },
+      {
+        "argumentList": [
+          233869003,
+          3024,
+          60
+        ],
+        "argumentListUpper": [
+          233869003,
+          3024,
+          60
+        ],
+        "towerCondType": "TOWER_COND_LEFT_HP_GREATER_THAN"
+      }
+    ],
+    "dungeonId": 3290,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621031,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 1,
+    "JDHIPBOALOD": "PT14",
+    "levelGroupId": 130,
+    "levelId": 388,
+    "levelIndex": 1,
+    "monsterLevel": 87,
+    "NKOPAOBMOLC": 2,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,31:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          60
+        ],
+        "argumentListUpper": [
+          1,
+          60
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3291,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621032,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 3,
+    "JDHIPBOALOD": "PT14",
+    "levelGroupId": 130,
+    "levelId": 389,
+    "levelIndex": 2,
+    "monsterLevel": 89,
+    "NKOPAOBMOLC": 4,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3292,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621033,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 5,
+    "JDHIPBOALOD": "PT14",
+    "levelGroupId": 130,
+    "levelId": 390,
+    "levelIndex": 3,
+    "monsterLevel": 91,
+    "NKOPAOBMOLC": 6,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3293,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621034,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 7,
+    "JDHIPBOALOD": "PT14",
+    "levelGroupId": 131,
+    "levelId": 391,
+    "levelIndex": 1,
+    "monsterLevel": 94,
+    "NKOPAOBMOLC": 8,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3294,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621035,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 9,
+    "JDHIPBOALOD": "PT14",
+    "levelGroupId": 131,
+    "levelId": 392,
+    "levelIndex": 2,
+    "monsterLevel": 97,
+    "NKOPAOBMOLC": 10,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "7:100,22:100,34:100"
+    ]
+  },
+  {
+    "conds": [
+      {
+        "argumentList": [
+          2,
+          180
+        ],
+        "argumentListUpper": [
+          1,
+          180
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          300
+        ],
+        "argumentListUpper": [
+          1,
+          300
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      },
+      {
+        "argumentList": [
+          2,
+          420
+        ],
+        "argumentListUpper": [
+          1,
+          420
+        ],
+        "towerCondType": "TOWER_COND_CHALLENGE_LEFT_TIME_MORE_THAN"
+      }
+    ],
+    "dungeonId": 3295,
+    "firstMonsterList": [],
+    "firstPassRewardId": 621036,
+    "GNNNGECFCAJ": 0,
+    "HAOBIOJEECA": 11,
+    "JDHIPBOALOD": "PT14",
+    "levelGroupId": 131,
+    "levelId": 393,
+    "levelIndex": 3,
+    "monsterLevel": 99,
+    "NKOPAOBMOLC": 12,
+    "secondMonsterList": [],
+    "towerBuffConfigStrList": [
+      "1:100,2:100,4:100,5:100,20:100,21:100,23:100,24:100",
+      "15:100,25:100,26:100,28:100,29:100,30:100,35:100",
+      "19:100"
+    ]
   }
 ]

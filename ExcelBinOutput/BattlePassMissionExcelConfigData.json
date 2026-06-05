@@ -20193,5 +20193,3481 @@
       ],
       "triggerType": "TRIGGER_CRUCIBLE_WORLD_LEVEL_SCORE"
     }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 393780370,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 1,
+    "groupId": 1,
+    "id": 79701,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 30,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000901,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 1692936290,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 2,
+    "groupId": 1,
+    "id": 79702,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 60,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000902,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 3455880466,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 3,
+    "groupId": 1,
+    "id": 79703,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 100,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000903,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 2046,
+    "addPoint": 1200,
+    "descTextMapHash": 767248866,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79704,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "BubbleDramaPhoto",
+        "1",
+        "4",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 2046,
+    "addPoint": 1500,
+    "descTextMapHash": 3464167434,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79705,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "BubbleDramaAirFighter",
+        "2",
+        "4000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 2046,
+    "addPoint": 1500,
+    "descTextMapHash": 1085504730,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79706,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "BubbleDramaDrink",
+        "5",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_FINISH_ACTIVITY_PLAY_LEVEL"
+    }
+  },
+  {
+    "activityId": 2046,
+    "addPoint": 1500,
+    "descTextMapHash": 1908921562,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79707,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "BubbleDramaBlade",
+        "6",
+        "4000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 5312,
+    "addPoint": 1500,
+    "descTextMapHash": 1335779658,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79708,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "MonsterSnap",
+        "6",
+        "3000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 5313,
+    "addPoint": 1500,
+    "descTextMapHash": 2671362202,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79709,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "6",
+        "6",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_TOWER_DEFENSE_WAVE_REACH"
+    }
+  },
+  {
+    "activityId": 5269,
+    "addPoint": 1500,
+    "descTextMapHash": 1197160858,
+    "DLNEMGENCLC": 5269003,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79710,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 11,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1200,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LEY_LINE_CHALLENGE_CONSUME_RESIN"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1500,
+    "descTextMapHash": 107991394,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 5,
+    "groupId": 0,
+    "id": 79711,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 50,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_GACHA_NUM"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 1454098650,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 6,
+    "groupId": 0,
+    "id": 79712,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "8",
+        "1",
+        "1",
+        ""
+      ],
+      "triggerType": "TRIGGER_ROLE_COMBAT_FINISH_ROUND"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 1492764938,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 7,
+    "groupId": 0,
+    "id": 79713,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 12,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6400,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_TOWER_STARS_NUM_CROSS_BP_SCHEDULE"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 3263197682,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 1,
+    "groupId": 1,
+    "id": 79801,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 30,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000901,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 2434471938,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 2,
+    "groupId": 1,
+    "id": 79802,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 60,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000902,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 458260738,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 3,
+    "groupId": 1,
+    "id": 79803,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 100,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000903,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 2047,
+    "addPoint": 1200,
+    "descTextMapHash": 3474858274,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79804,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "TradeShowStg",
+        "2",
+        "1",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_WITH_HIT_POINT"
+    }
+  },
+  {
+    "activityId": 2047,
+    "addPoint": 1500,
+    "descTextMapHash": 3143500186,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79805,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "TradeShowTd",
+        "3",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC"
+    }
+  },
+  {
+    "activityId": 2047,
+    "addPoint": 1500,
+    "descTextMapHash": 3757428122,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79806,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "TradeShowBattle",
+        "5",
+        "12000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 2047,
+    "addPoint": 1500,
+    "descTextMapHash": 895023322,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79807,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 800,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "194",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM"
+    }
+  },
+  {
+    "activityId": 5315,
+    "addPoint": 1500,
+    "descTextMapHash": 2361598234,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79808,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "MapMark",
+        "6",
+        "1000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 5316,
+    "addPoint": 1500,
+    "descTextMapHash": 1532369010,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79809,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "ShortVideo",
+        "7",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC"
+    }
+  },
+  {
+    "activityId": 5269,
+    "addPoint": 1500,
+    "descTextMapHash": 2388760906,
+    "DLNEMGENCLC": 5269003,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79810,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 11,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1200,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LEY_LINE_CHALLENGE_CONSUME_RESIN"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1500,
+    "descTextMapHash": 2021928242,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 5,
+    "groupId": 0,
+    "id": 79811,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 50,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_GACHA_NUM"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 3412871266,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 6,
+    "groupId": 0,
+    "id": 79812,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "8",
+        "1",
+        "1",
+        ""
+      ],
+      "triggerType": "TRIGGER_ROLE_COMBAT_FINISH_ROUND"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 2712222002,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 7,
+    "groupId": 0,
+    "id": 79813,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 12,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6500,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_TOWER_STARS_NUM_CROSS_BP_SCHEDULE"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 454242690,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 1,
+    "groupId": 1,
+    "id": 79901,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 30,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000901,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 4286171554,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 2,
+    "groupId": 1,
+    "id": 79902,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 60,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000902,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 3468475858,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 3,
+    "groupId": 1,
+    "id": 79903,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 100,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000903,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 2048,
+    "addPoint": 1200,
+    "descTextMapHash": 1911027914,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79904,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "LoliRun",
+        "1",
+        "7000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 2048,
+    "addPoint": 1500,
+    "descTextMapHash": 517544962,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79905,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "LoliJump",
+        "4",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_FINISH_ACTIVITY_PLAY_LEVEL"
+    }
+  },
+  {
+    "activityId": 2048,
+    "addPoint": 1500,
+    "descTextMapHash": 646751402,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79906,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "LoliGolf",
+        "4",
+        "IS_SUCC==1",
+        ""
+      ],
+      "triggerType": "TRIGGER_FINISH_ACTIVITY_PLAY_LEVEL"
+    }
+  },
+  {
+    "activityId": 2048,
+    "addPoint": 1500,
+    "descTextMapHash": 1601255874,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79907,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "LoliBattle",
+        "4",
+        "10000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 5324,
+    "addPoint": 1500,
+    "descTextMapHash": 1090788450,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79908,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "BladeHeart",
+        "6",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_FINISH_ACTIVITY_PLAY_LEVEL"
+    }
+  },
+  {
+    "activityId": 5323,
+    "addPoint": 1500,
+    "descTextMapHash": 373012634,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79909,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 4000,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "5323",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_SCORE_EXCEED_VALUE"
+    }
+  },
+  {
+    "activityId": 5269,
+    "addPoint": 1500,
+    "descTextMapHash": 1251179578,
+    "DLNEMGENCLC": 5269003,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79910,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 11,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1200,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LEY_LINE_CHALLENGE_CONSUME_RESIN"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1500,
+    "descTextMapHash": 2076488170,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 5,
+    "groupId": 0,
+    "id": 79911,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 50,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_GACHA_NUM"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 2080069090,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 6,
+    "groupId": 0,
+    "id": 79912,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "8",
+        "1",
+        "1",
+        ""
+      ],
+      "triggerType": "TRIGGER_ROLE_COMBAT_FINISH_ROUND"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 650832946,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 7,
+    "groupId": 0,
+    "id": 79913,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 12,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6600,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_TOWER_STARS_NUM_CROSS_BP_SCHEDULE"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 2609200570,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 1,
+    "groupId": 1,
+    "id": 79601,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 30,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000901,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 440802722,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 2,
+    "groupId": 1,
+    "id": 79602,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 60,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000902,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 3223521522,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 3,
+    "groupId": 1,
+    "id": 79603,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 100,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000903,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 2045,
+    "addPoint": 1200,
+    "descTextMapHash": 1301490002,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79604,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 10,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LANTERN_RITE_V6_LIKE_LANTERN_NUM"
+    }
+  },
+  {
+    "activityId": 2045,
+    "addPoint": 1500,
+    "descTextMapHash": 4064576906,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79605,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "LanV6Parkour",
+        "3",
+        "IS_SUCC==1",
+        ""
+      ],
+      "triggerType": "TRIGGER_FINISH_ACTIVITY_PLAY_LEVEL"
+    }
+  },
+  {
+    "activityId": 2045,
+    "addPoint": 1500,
+    "descTextMapHash": 3746298954,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79606,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 80,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LANTERN_RITE_V6_DANMAKU_SUM_KILL_NUM"
+    }
+  },
+  {
+    "activityId": 2045,
+    "addPoint": 1500,
+    "descTextMapHash": 3887063330,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79607,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "LanV6Battle",
+        "5",
+        "12000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 5305,
+    "addPoint": 1500,
+    "descTextMapHash": 3020354834,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79608,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 3000,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "5305",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_SCORE_EXCEED_VALUE"
+    }
+  },
+  {
+    "activityId": 5307,
+    "addPoint": 1500,
+    "descTextMapHash": 468921730,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79609,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "TimeStopPhoto",
+        "10",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC"
+    }
+  },
+  {
+    "activityId": 5269,
+    "addPoint": 1500,
+    "descTextMapHash": 1106683162,
+    "DLNEMGENCLC": 5269003,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79610,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 11,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1200,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LEY_LINE_CHALLENGE_CONSUME_RESIN"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1500,
+    "descTextMapHash": 2707670090,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 5,
+    "groupId": 0,
+    "id": 79611,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 50,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_GACHA_NUM"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 84100538,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 6,
+    "groupId": 0,
+    "id": 79612,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "8",
+        "1",
+        "1",
+        ""
+      ],
+      "triggerType": "TRIGGER_ROLE_COMBAT_FINISH_ROUND"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 3646780434,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 7,
+    "groupId": 0,
+    "id": 79613,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 12,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6300,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_TOWER_STARS_NUM_CROSS_BP_SCHEDULE"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 4253479106,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 1,
+    "groupId": 1,
+    "id": 79501,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 30,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000901,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 1066681570,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 2,
+    "groupId": 1,
+    "id": 79502,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 60,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000902,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 2131830946,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 3,
+    "groupId": 1,
+    "id": 79503,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 100,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000903,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 2044,
+    "addPoint": 1200,
+    "descTextMapHash": 2227030298,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79504,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "SnowRaceThrow",
+        "1",
+        "1600",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 2044,
+    "addPoint": 1500,
+    "descTextMapHash": 1462289562,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79505,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 4000,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "2044",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_SCORE_EXCEED_VALUE"
+    }
+  },
+  {
+    "activityId": 2044,
+    "addPoint": 1500,
+    "descTextMapHash": 3334324514,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79506,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "SnowRaceParkour",
+        "3",
+        "900",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 2044,
+    "addPoint": 1500,
+    "descTextMapHash": 1828208706,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79507,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "SnowRaceCombat",
+        "4",
+        "100000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 5300,
+    "addPoint": 1500,
+    "descTextMapHash": 1965499730,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79508,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 6000,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "5300",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_SCORE_EXCEED_VALUE"
+    }
+  },
+  {
+    "activityId": 5297,
+    "addPoint": 1500,
+    "descTextMapHash": 3707835850,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79509,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "BirdPinBall",
+        "8",
+        "5000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 5269,
+    "addPoint": 1500,
+    "descTextMapHash": 2841502106,
+    "DLNEMGENCLC": 5269003,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79510,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 11,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1200,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LEY_LINE_CHALLENGE_CONSUME_RESIN"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1500,
+    "descTextMapHash": 2695224610,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 5,
+    "groupId": 0,
+    "id": 79511,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 50,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_GACHA_NUM"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 942149674,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 6,
+    "groupId": 0,
+    "id": 79512,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "8",
+        "1",
+        "1",
+        ""
+      ],
+      "triggerType": "TRIGGER_ROLE_COMBAT_FINISH_ROUND"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 3961738298,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 7,
+    "groupId": 0,
+    "id": 79513,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 12,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_TOWER_STARS_NUM_CROSS_BP_SCHEDULE"
+    }
+  },
+  {
+    "activityId": 5012,
+    "addPoint": 1200,
+    "descTextMapHash": 4066242722,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79514,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 5,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6200,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_DELIVER_ITEM_TO_SALESMAN"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 2388231282,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 1,
+    "groupId": 1,
+    "id": 79401,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 30,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000901,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 706115034,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 2,
+    "groupId": 1,
+    "id": 79402,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 60,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000902,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1200,
+    "descTextMapHash": 803209250,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 3,
+    "groupId": 1,
+    "id": 79403,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 100,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 1000903,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ANY_RANK_LEVEL_RELIQUARY_UPGRADE_LEVEL"
+    }
+  },
+  {
+    "activityId": 2043,
+    "addPoint": 1500,
+    "descTextMapHash": 3709883498,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79404,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "SumeruAdventureParkour",
+        "3",
+        "55",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_IN_TIME"
+    }
+  },
+  {
+    "activityId": 2043,
+    "addPoint": 1500,
+    "descTextMapHash": 4271206642,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79405,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "SumeruAdventurePathwayPlanning",
+        "4",
+        "IS_SUCC==1",
+        ""
+      ],
+      "triggerType": "TRIGGER_FINISH_ACTIVITY_PLAY_LEVEL"
+    }
+  },
+  {
+    "activityId": 2043,
+    "addPoint": 1500,
+    "descTextMapHash": 205015090,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79406,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "SumeruAdventureGoalFighting",
+        "6",
+        "4000",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_PLAY_LEVEL_SUCC_SCORE_REACH"
+    }
+  },
+  {
+    "activityId": 2043,
+    "addPoint": 1500,
+    "descTextMapHash": 1100290466,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79407,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 800,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "188",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM"
+    }
+  },
+  {
+    "activityId": 5295,
+    "addPoint": 1500,
+    "descTextMapHash": 1019031618,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79408,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "HumanDragonPuzzle",
+        "5",
+        "IS_SUCC==1",
+        ""
+      ],
+      "triggerType": "TRIGGER_FINISH_ACTIVITY_PLAY_LEVEL"
+    }
+  },
+  {
+    "activityId": 5296,
+    "addPoint": 1500,
+    "descTextMapHash": 413340082,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79409,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 4000,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "5296",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ACTIVITY_SCORE_EXCEED_VALUE"
+    }
+  },
+  {
+    "activityId": 5269,
+    "addPoint": 1500,
+    "descTextMapHash": 2739410986,
+    "DLNEMGENCLC": 5269003,
+    "GGDADIGACNL": 4,
+    "groupId": 0,
+    "id": 79410,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 11,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1200,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_LEY_LINE_CHALLENGE_CONSUME_RESIN"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 1500,
+    "descTextMapHash": 1221945682,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 5,
+    "groupId": 0,
+    "id": 79411,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 50,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_GACHA_NUM"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 3493652722,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 6,
+    "groupId": 0,
+    "id": 79412,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 1,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "8",
+        "1",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_ROLE_COMBAT_FINISH_ROUND"
+    }
+  },
+  {
+    "activityId": 0,
+    "addPoint": 2250,
+    "descTextMapHash": 2151976170,
+    "DLNEMGENCLC": 0,
+    "GGDADIGACNL": 7,
+    "groupId": 0,
+    "id": 79413,
+    "isDisuse": false,
+    "isForce": false,
+    "KHOILIFAAMC": 0,
+    "JPGBCNMKHPI": {
+      "ADGNKEBCCGJ": "QUEST_GUIDE_STYLE_NONE",
+      "BGGNIDPMKFP": "QUEST_GUIDE_IN_SCENE_STYLE_NONE",
+      "CMHADOJIPNO": "QUEST_GUIDE_INDICATOR_STYLE_NONE",
+      "ECNEHNJJDJM": "",
+      "FADGMGGJFBN": 0,
+      "FHPLLIKLAAL": "QUEST_GUIDE_AREA_STYLE_DEFAULT",
+      "HEBCJCMDEDP": "",
+      "HGANKANHNFF": 0,
+      "JFCEABKGEJO": "QUEST_GUIDE_AUTO_NONE",
+      "LNENHAIIJPO": "NONE",
+      "LOEGKGEFBBD": "QUEST_GUIDE_LAYER_NONE",
+      "MNBMIIFPJLG": 0,
+      "NEJANAEOIFC": 0,
+      "param": [
+        ""
+      ],
+      "type": "QUEST_GUIDE_NONE"
+    },
+    "progress": 12,
+    "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+    "rewardId": 0,
+    "scheduleId": 6100,
+    "triggerConfig": {
+      "paramList": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "triggerType": "TRIGGER_TOWER_STARS_NUM_CROSS_BP_SCHEDULE"
+    }
   }
 ]

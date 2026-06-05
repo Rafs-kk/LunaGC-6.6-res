@@ -39198,5 +39198,2181 @@
       0,
       0
     ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115180,
+    "descTextMapHash": 568895665,
+    "id": 111518,
+    "level": 0,
+    "nameTextMapHash": 3946563739,
+    "openConfig": "Weapon_Sword_Motsognir",
+    "paramList": [
+      0.16,
+      3,
+      0.2,
+      0.16,
+      0.75,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115181,
+    "descTextMapHash": 1008369729,
+    "id": 111518,
+    "level": 1,
+    "nameTextMapHash": 1585157195,
+    "openConfig": "Weapon_Sword_Motsognir",
+    "paramList": [
+      0.2,
+      3,
+      0.25,
+      0.2,
+      0.75,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115182,
+    "descTextMapHash": 3380327721,
+    "id": 111518,
+    "level": 2,
+    "nameTextMapHash": 1297734051,
+    "openConfig": "Weapon_Sword_Motsognir",
+    "paramList": [
+      0.24,
+      3,
+      0.3,
+      0.24,
+      0.75,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115183,
+    "descTextMapHash": 604666313,
+    "id": 111518,
+    "level": 3,
+    "nameTextMapHash": 45290595,
+    "openConfig": "Weapon_Sword_Motsognir",
+    "paramList": [
+      0.28,
+      3,
+      0.35,
+      0.28,
+      0.75,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115184,
+    "descTextMapHash": 2793440537,
+    "id": 111518,
+    "level": 4,
+    "nameTextMapHash": 753404027,
+    "openConfig": "Weapon_Sword_Motsognir",
+    "paramList": [
+      0.32,
+      3,
+      0.4,
+      0.32,
+      0.75,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.2
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115190,
+    "descTextMapHash": 823821817,
+    "id": 111519,
+    "level": 0,
+    "nameTextMapHash": 3882258923,
+    "openConfig": "Weapon_Sword_SilverwareSaw",
+    "paramList": [
+      0.64,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.25
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115191,
+    "descTextMapHash": 1390159169,
+    "id": 111519,
+    "level": 1,
+    "nameTextMapHash": 2498376067,
+    "openConfig": "Weapon_Sword_SilverwareSaw",
+    "paramList": [
+      0.8,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.3
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115192,
+    "descTextMapHash": 2024599025,
+    "id": 111519,
+    "level": 2,
+    "nameTextMapHash": 3282918403,
+    "openConfig": "Weapon_Sword_SilverwareSaw",
+    "paramList": [
+      0.96,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.35
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115193,
+    "descTextMapHash": 1073549361,
+    "id": 111519,
+    "level": 3,
+    "nameTextMapHash": 80547299,
+    "openConfig": "Weapon_Sword_SilverwareSaw",
+    "paramList": [
+      1.12,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.4
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1115194,
+    "descTextMapHash": 2928642537,
+    "id": 111519,
+    "level": 4,
+    "nameTextMapHash": 2234494403,
+    "openConfig": "Weapon_Sword_SilverwareSaw",
+    "paramList": [
+      1.28,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1125150,
+    "descTextMapHash": 4212489577,
+    "id": 112515,
+    "level": 0,
+    "nameTextMapHash": 974806099,
+    "openConfig": "Weapon_Claymore_EnsisAquilonis",
+    "paramList": [
+      0.1,
+      0.075,
+      0.075,
+      4,
+      4,
+      0.01,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1125151,
+    "descTextMapHash": 3372588489,
+    "id": 112515,
+    "level": 1,
+    "nameTextMapHash": 3000855827,
+    "openConfig": "Weapon_Claymore_EnsisAquilonis",
+    "paramList": [
+      0.1,
+      0.095,
+      0.095,
+      4,
+      4,
+      0.01,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1125152,
+    "descTextMapHash": 4244129225,
+    "id": 112515,
+    "level": 2,
+    "nameTextMapHash": 1862665643,
+    "openConfig": "Weapon_Claymore_EnsisAquilonis",
+    "paramList": [
+      0.1,
+      0.115,
+      0.115,
+      4,
+      4,
+      0.01,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1125153,
+    "descTextMapHash": 711254409,
+    "id": 112515,
+    "level": 3,
+    "nameTextMapHash": 2666157171,
+    "openConfig": "Weapon_Claymore_EnsisAquilonis",
+    "paramList": [
+      0.1,
+      0.135,
+      0.135,
+      4,
+      4,
+      0.01,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1125154,
+    "descTextMapHash": 214112441,
+    "id": 112515,
+    "level": 4,
+    "nameTextMapHash": 2561799499,
+    "openConfig": "Weapon_Claymore_EnsisAquilonis",
+    "paramList": [
+      0.1,
+      0.155,
+      0.155,
+      4,
+      4,
+      0.01,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1134340,
+    "descTextMapHash": 227772673,
+    "id": 113434,
+    "level": 0,
+    "nameTextMapHash": 3303428523,
+    "openConfig": "Weapon_Pole_Krivule",
+    "paramList": [
+      6,
+      0.08,
+      0.06,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1134341,
+    "descTextMapHash": 2703435001,
+    "id": 113434,
+    "level": 1,
+    "nameTextMapHash": 179770411,
+    "openConfig": "Weapon_Pole_Krivule",
+    "paramList": [
+      6,
+      0.1,
+      0.075,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1134342,
+    "descTextMapHash": 2548933769,
+    "id": 113434,
+    "level": 2,
+    "nameTextMapHash": 4061395011,
+    "openConfig": "Weapon_Pole_Krivule",
+    "paramList": [
+      6,
+      0.12,
+      0.09,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1134343,
+    "descTextMapHash": 2143613961,
+    "id": 113434,
+    "level": 3,
+    "nameTextMapHash": 2964538403,
+    "openConfig": "Weapon_Pole_Krivule",
+    "paramList": [
+      6,
+      0.14,
+      0.105,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1134344,
+    "descTextMapHash": 4054409249,
+    "id": 113434,
+    "level": 4,
+    "nameTextMapHash": 2748129451,
+    "openConfig": "Weapon_Pole_Krivule",
+    "paramList": [
+      6,
+      0.16,
+      0.12,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1135170,
+    "descTextMapHash": 1857588673,
+    "id": 113517,
+    "level": 0,
+    "nameTextMapHash": 3742127275,
+    "openConfig": "Weapon_Pole_Carbine",
+    "paramList": [
+      17,
+      3,
+      0.4,
+      0.4,
+      1,
+      0.75,
+      18,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1135171,
+    "descTextMapHash": 608651657,
+    "id": 113517,
+    "level": 1,
+    "nameTextMapHash": 3997792291,
+    "openConfig": "Weapon_Pole_Carbine",
+    "paramList": [
+      17,
+      3,
+      0.5,
+      0.5,
+      1,
+      0.75,
+      18,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1135172,
+    "descTextMapHash": 1529011561,
+    "id": 113517,
+    "level": 2,
+    "nameTextMapHash": 3189627235,
+    "openConfig": "Weapon_Pole_Carbine",
+    "paramList": [
+      17,
+      3,
+      0.6,
+      0.6,
+      1,
+      0.75,
+      18,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1135173,
+    "descTextMapHash": 3581924625,
+    "id": 113517,
+    "level": 3,
+    "nameTextMapHash": 3795595395,
+    "openConfig": "Weapon_Pole_Carbine",
+    "paramList": [
+      17,
+      3,
+      0.7,
+      0.7,
+      1,
+      0.75,
+      18,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1135174,
+    "descTextMapHash": 2042937665,
+    "id": 113517,
+    "level": 4,
+    "nameTextMapHash": 1580865683,
+    "openConfig": "Weapon_Pole_Carbine",
+    "paramList": [
+      17,
+      3,
+      0.8,
+      0.8,
+      1,
+      0.75,
+      18,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1144340,
+    "descTextMapHash": 978888793,
+    "id": 114434,
+    "level": 0,
+    "nameTextMapHash": 1658621971,
+    "openConfig": "Weapon_Catalyst_Ziedas",
+    "paramList": [
+      72,
+      10,
+      48,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1144341,
+    "descTextMapHash": 2624553073,
+    "id": 114434,
+    "level": 1,
+    "nameTextMapHash": 3000433803,
+    "openConfig": "Weapon_Catalyst_Ziedas",
+    "paramList": [
+      90,
+      10,
+      60,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1144342,
+    "descTextMapHash": 1448546449,
+    "id": 114434,
+    "level": 2,
+    "nameTextMapHash": 3359165779,
+    "openConfig": "Weapon_Catalyst_Ziedas",
+    "paramList": [
+      108,
+      10,
+      72,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1144343,
+    "descTextMapHash": 100698241,
+    "id": 114434,
+    "level": 3,
+    "nameTextMapHash": 3383612699,
+    "openConfig": "Weapon_Catalyst_Ziedas",
+    "paramList": [
+      126,
+      10,
+      84,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1144344,
+    "descTextMapHash": 2885558633,
+    "id": 114434,
+    "level": 4,
+    "nameTextMapHash": 3544286371,
+    "openConfig": "Weapon_Catalyst_Ziedas",
+    "paramList": [
+      144,
+      10,
+      96,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.08
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145210,
+    "descTextMapHash": 1733443953,
+    "id": 114521,
+    "level": 0,
+    "nameTextMapHash": 2787405899,
+    "openConfig": "Weapon_Catalyst_Sistrum",
+    "paramList": [
+      80,
+      0.24,
+      12,
+      4,
+      0.5,
+      0.08,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.1
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145211,
+    "descTextMapHash": 1182886177,
+    "id": 114521,
+    "level": 1,
+    "nameTextMapHash": 3458773315,
+    "openConfig": "Weapon_Catalyst_Sistrum",
+    "paramList": [
+      100,
+      0.3,
+      12,
+      4,
+      0.5,
+      0.1,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.12
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145212,
+    "descTextMapHash": 1134144601,
+    "id": 114521,
+    "level": 2,
+    "nameTextMapHash": 2299786475,
+    "openConfig": "Weapon_Catalyst_Sistrum",
+    "paramList": [
+      120,
+      0.36,
+      12,
+      4,
+      0.5,
+      0.12,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.14
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145213,
+    "descTextMapHash": 2003358033,
+    "id": 114521,
+    "level": 3,
+    "nameTextMapHash": 1260719219,
+    "openConfig": "Weapon_Catalyst_Sistrum",
+    "paramList": [
+      140,
+      0.42,
+      12,
+      4,
+      0.5,
+      0.14,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.16
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145214,
+    "descTextMapHash": 4060110097,
+    "id": 114521,
+    "level": 4,
+    "nameTextMapHash": 570545595,
+    "openConfig": "Weapon_Catalyst_Sistrum",
+    "paramList": [
+      160,
+      0.48,
+      12,
+      4,
+      0.5,
+      0.16,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.1
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145220,
+    "descTextMapHash": 3781937177,
+    "id": 114522,
+    "level": 0,
+    "nameTextMapHash": 2904213659,
+    "openConfig": "Weapon_Catalyst_Brisingamen",
+    "paramList": [
+      0.14,
+      0.6,
+      12,
+      14,
+      18,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.12
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145221,
+    "descTextMapHash": 346550513,
+    "id": 114522,
+    "level": 1,
+    "nameTextMapHash": 955963403,
+    "openConfig": "Weapon_Catalyst_Brisingamen",
+    "paramList": [
+      0.16,
+      0.8,
+      12,
+      15,
+      18,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.14
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145222,
+    "descTextMapHash": 213323833,
+    "id": 114522,
+    "level": 2,
+    "nameTextMapHash": 684526987,
+    "openConfig": "Weapon_Catalyst_Brisingamen",
+    "paramList": [
+      0.18,
+      1,
+      12,
+      16,
+      18,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.16
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145223,
+    "descTextMapHash": 3638630857,
+    "id": 114522,
+    "level": 3,
+    "nameTextMapHash": 930045995,
+    "openConfig": "Weapon_Catalyst_Brisingamen",
+    "paramList": [
+      0.2,
+      1.2,
+      12,
+      17,
+      18,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.18
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145224,
+    "descTextMapHash": 3683213569,
+    "id": 114522,
+    "level": 4,
+    "nameTextMapHash": 1060275387,
+    "openConfig": "Weapon_Catalyst_Brisingamen",
+    "paramList": [
+      0.22,
+      1.4,
+      12,
+      18,
+      18,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145230,
+    "descTextMapHash": 1543879841,
+    "id": 114523,
+    "level": 0,
+    "nameTextMapHash": 788659619,
+    "openConfig": "Weapon_Catalyst_Nicole",
+    "paramList": [
+      0.12,
+      1000,
+      0.1,
+      0.26,
+      20,
+      14,
+      14,
+      0.5
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.15
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145231,
+    "descTextMapHash": 1171593329,
+    "id": 114523,
+    "level": 1,
+    "nameTextMapHash": 3702494411,
+    "openConfig": "Weapon_Catalyst_Nicole",
+    "paramList": [
+      0.15,
+      1000,
+      0.13,
+      0.34,
+      20,
+      15,
+      14,
+      0.5
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.18
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145232,
+    "descTextMapHash": 197638169,
+    "id": 114523,
+    "level": 2,
+    "nameTextMapHash": 2791934019,
+    "openConfig": "Weapon_Catalyst_Nicole",
+    "paramList": [
+      0.18,
+      1000,
+      0.16,
+      0.42,
+      20,
+      16,
+      14,
+      0.5
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.21
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145233,
+    "descTextMapHash": 3959404689,
+    "id": 114523,
+    "level": 3,
+    "nameTextMapHash": 3578096123,
+    "openConfig": "Weapon_Catalyst_Nicole",
+    "paramList": [
+      0.21,
+      1000,
+      0.19,
+      0.5,
+      20,
+      17,
+      14,
+      0.5
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.24
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1145234,
+    "descTextMapHash": 3703306617,
+    "id": 114523,
+    "level": 4,
+    "nameTextMapHash": 382626083,
+    "openConfig": "Weapon_Catalyst_Nicole",
+    "paramList": [
+      0.24,
+      1000,
+      0.22,
+      0.58,
+      20,
+      18,
+      14,
+      0.5
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1154340,
+    "descTextMapHash": 2528869593,
+    "id": 115434,
+    "level": 0,
+    "nameTextMapHash": 1906322875,
+    "openConfig": "Weapon_Bow_ElegguaBow",
+    "paramList": [
+      8,
+      0.28,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1154341,
+    "descTextMapHash": 1427626489,
+    "id": 115434,
+    "level": 1,
+    "nameTextMapHash": 1686055347,
+    "openConfig": "Weapon_Bow_ElegguaBow",
+    "paramList": [
+      8,
+      0.35,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1154342,
+    "descTextMapHash": 1138943353,
+    "id": 115434,
+    "level": 2,
+    "nameTextMapHash": 2188168371,
+    "openConfig": "Weapon_Bow_ElegguaBow",
+    "paramList": [
+      8,
+      0.42,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1154343,
+    "descTextMapHash": 237048113,
+    "id": 115434,
+    "level": 3,
+    "nameTextMapHash": 2693559715,
+    "openConfig": "Weapon_Bow_ElegguaBow",
+    "paramList": [
+      8,
+      0.49,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1154344,
+    "descTextMapHash": 47669481,
+    "id": 115434,
+    "level": 4,
+    "nameTextMapHash": 2608472259,
+    "openConfig": "Weapon_Bow_ElegguaBow",
+    "paramList": [
+      8,
+      0.56,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155150,
+    "descTextMapHash": 2384416105,
+    "id": 115515,
+    "level": 0,
+    "nameTextMapHash": 1333964131,
+    "openConfig": "Weapon_Bow_Arianna",
+    "paramList": [
+      3,
+      0.6,
+      0.1,
+      0.1,
+      0.1,
+      0.2,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155151,
+    "descTextMapHash": 1604228537,
+    "id": 115515,
+    "level": 1,
+    "nameTextMapHash": 977322427,
+    "openConfig": "Weapon_Bow_Arianna",
+    "paramList": [
+      3,
+      0.75,
+      0.125,
+      0.125,
+      0.1,
+      0.25,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155152,
+    "descTextMapHash": 102858969,
+    "id": 115515,
+    "level": 2,
+    "nameTextMapHash": 716223931,
+    "openConfig": "Weapon_Bow_Arianna",
+    "paramList": [
+      3,
+      0.9,
+      0.15,
+      0.15,
+      0.1,
+      0.3,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155153,
+    "descTextMapHash": 2799339953,
+    "id": 115515,
+    "level": 3,
+    "nameTextMapHash": 3802205355,
+    "openConfig": "Weapon_Bow_Arianna",
+    "paramList": [
+      3,
+      1.05,
+      0.175,
+      0.175,
+      0.1,
+      0.35,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155154,
+    "descTextMapHash": 3738832257,
+    "id": 115515,
+    "level": 4,
+    "nameTextMapHash": 91794539,
+    "openConfig": "Weapon_Bow_Arianna",
+    "paramList": [
+      3,
+      1.2,
+      0.2,
+      0.2,
+      0.1,
+      0.4,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.16
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155160,
+    "descTextMapHash": 1368562961,
+    "id": 115516,
+    "level": 0,
+    "nameTextMapHash": 3784120611,
+    "openConfig": "Weapon_Bow_Alkonost",
+    "paramList": [
+      6,
+      0.4,
+      0.4,
+      0.5,
+      0.16,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.2
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155161,
+    "descTextMapHash": 324776313,
+    "id": 115516,
+    "level": 1,
+    "nameTextMapHash": 586217955,
+    "openConfig": "Weapon_Bow_Alkonost",
+    "paramList": [
+      6,
+      0.5,
+      0.5,
+      0.5,
+      0.2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.24
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155162,
+    "descTextMapHash": 2183193641,
+    "id": 115516,
+    "level": 2,
+    "nameTextMapHash": 642508211,
+    "openConfig": "Weapon_Bow_Alkonost",
+    "paramList": [
+      6,
+      0.6,
+      0.6,
+      0.5,
+      0.24,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.28
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155163,
+    "descTextMapHash": 3343410441,
+    "id": 115516,
+    "level": 3,
+    "nameTextMapHash": 2141331555,
+    "openConfig": "Weapon_Bow_Alkonost",
+    "paramList": [
+      6,
+      0.7,
+      0.7,
+      0.5,
+      0.28,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+        "value": 0.32
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 1155164,
+    "descTextMapHash": 2626567361,
+    "id": 115516,
+    "level": 4,
+    "nameTextMapHash": 2925219083,
+    "openConfig": "Weapon_Bow_Alkonost",
+    "paramList": [
+      6,
+      0.8,
+      0.8,
+      0.5,
+      0.32,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 80
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150430,
+    "descTextMapHash": 216167785,
+    "id": 215043,
+    "level": 0,
+    "nameTextMapHash": 2786354179,
+    "openConfig": "",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150431,
+    "descTextMapHash": 850765225,
+    "id": 215043,
+    "level": 1,
+    "nameTextMapHash": 894629371,
+    "openConfig": "Relic_6.3_Columbia",
+    "paramList": [
+      0.2,
+      0.4,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.18
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150440,
+    "descTextMapHash": 1021826081,
+    "id": 215044,
+    "level": 0,
+    "nameTextMapHash": 784952587,
+    "openConfig": "",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150441,
+    "descTextMapHash": 1243746681,
+    "id": 215044,
+    "level": 1,
+    "nameTextMapHash": 3721836931,
+    "openConfig": "Relic_6.3_MajoKai",
+    "paramList": [
+      6,
+      0.25,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "value": 0.2
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150450,
+    "descTextMapHash": 4273259993,
+    "id": 215045,
+    "level": 0,
+    "nameTextMapHash": 287571027,
+    "openConfig": "",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150451,
+    "descTextMapHash": 2345877825,
+    "id": 215045,
+    "level": 1,
+    "nameTextMapHash": 4291032347,
+    "openConfig": "Relic_6.6_Nicole",
+    "paramList": [
+      0.2,
+      20,
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.18
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150460,
+    "descTextMapHash": 1751270401,
+    "id": 215046,
+    "level": 0,
+    "nameTextMapHash": 2639070347,
+    "openConfig": "",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "affixId": 2150461,
+    "descTextMapHash": 3831956697,
+    "id": 215046,
+    "level": 1,
+    "nameTextMapHash": 1086878883,
+    "openConfig": "Relic_6.6_Superconductor",
+    "paramList": [
+      0.8,
+      0.16,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   }
 ]

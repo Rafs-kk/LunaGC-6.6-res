@@ -3601,5 +3601,238 @@
         }
       ]
     }
+  },
+  {
+    "Default": {
+      "abilityName": "Avatar_Sucrose_HexenzirkelSkill",
+      "onAdded": [],
+      "__unk_Q2830497089": [],
+      "onRemoved": [],
+      "abilitySpecials": {
+        "Ratio": 0,
+        "Duration": 0
+      },
+      "onAvatarIn": [],
+      "onKill": [],
+      "onAvatarOut": [],
+      "onFieldEnter": [],
+      "defaultModifier": {
+        "onBeingHit": [],
+        "modifierMixins": [],
+        "onAvatarOut": [],
+        "onThinkInterval": [],
+        "duration": {
+          "__unk_Q2668214730": false
+        },
+        "onAttackLanded": [],
+        "onBeingHealed": [],
+        "stackingOption": {
+          "abilitySpecialName": "",
+          "maxModifierNumForMultipleType": {
+            "__unk_Q2668214730": false
+          },
+          "enableMixedUnique": false
+        },
+        "onAvatarIn": [],
+        "onHeal": [],
+        "onAdded": [],
+        "onRemoved": [],
+        "properties": {},
+        "onReconnect": [],
+        "onHittingOther": [],
+        "modifierName": "",
+        "thinkInterval": {
+          "__unk_Q2668214730": false
+        },
+        "onKill": [],
+        "elementDurability": {
+          "__unk_Q2668214730": true
+        },
+        "buffID": 0,
+        "overrideWeaponElement": false,
+        "state": "None",
+        "elementType": "None",
+        "timeScale": "Owner",
+        "fireEventWhenApply": false,
+        "stacking": "Refresh",
+        "isDurabilityGlobal": false,
+        "isElementDurabilityMutable": true,
+        "isLimitedProperties": false,
+        "purgeIncrement": 0,
+        "useDummyAbility": false,
+        "onThinkIntervalIsFixedUpdate": false,
+        "isUnique": false,
+        "trimThinkInterval": false
+      },
+      "onAbilityStart": [
+        {
+          "$type": "RemoveUniqueModifier",
+          "modifierName": "UNIQUE_Avatar_Sucrose_HexenzirkelSkill_Burst",
+          "__unk_Q2273802443": false,
+          "predicates": [
+            {
+              "$type": "ByTargetPositionToSelfPosition",
+              "__unk_Q1160719197": "",
+              "value": {
+                "__unk_Q2668214730": false
+              },
+              "compareType": "XZ",
+              "logic": "LesserOrEqual",
+              "target": "Target"
+            }
+          ],
+          "otherTargets": {
+            "entityTypePriority": [],
+            "topLimit": 0,
+            "sortType": "Default"
+          },
+          "doOffStage": true,
+          "token": {
+            "tokenType": "NEVER_TOKEN",
+            "weight": 1
+          },
+          "canBeHandledOnRecover": false,
+          "muteRemoteAction": false,
+          "doAfterDie": true,
+          "target": "AllPlayerAvatars",
+          "__unk_Q4125547569": -1
+        },
+        {
+          "$type": "ApplyModifier",
+          "modifierName": "UNIQUE_Avatar_Sucrose_HexenzirkelSkill_Burst",
+          "__unk_Q2273802443": false,
+          "predicates": [
+            {
+              "$type": "ByTargetPositionToSelfPosition",
+              "__unk_Q1160719197": "",
+              "value": {
+                "__unk_Q2668214730": false
+              },
+              "compareType": "XZ",
+              "logic": "LesserOrEqual",
+              "target": "Target"
+            },
+            {
+              "$type": "ByEntityIsAlive",
+              "target": "Target"
+            }
+          ],
+          "otherTargets": {
+            "entityTypePriority": [],
+            "topLimit": 0,
+            "sortType": "Default"
+          },
+          "doOffStage": true,
+          "token": {
+            "tokenType": "NEVER_TOKEN",
+            "weight": 1
+          },
+          "canBeHandledOnRecover": false,
+          "muteRemoteAction": false,
+          "doAfterDie": true,
+          "target": "AllPlayerAvatars",
+          "__unk_Q4125547569": -1
+        }
+      ],
+      "modifiers": {
+        "UNIQUE_Avatar_Sucrose_HexenzirkelSkill_Burst": {
+          "onBeingHit": [],
+          "modifierMixins": [
+            {
+              "$type": "ModifyDamageMixin",
+              "elementDurability": {
+                "__unk_Q2668214730": false
+              },
+              "defenseIgnoreRatio": {
+                "__unk_Q2668214730": false
+              },
+              "damagePercentageRatio": {
+                "__unk_Q2668214730": false
+              },
+              "animEventNames": [],
+              "attackTags": [
+                "NormalAttack_01",
+                "NormalAttack_02",
+                "NormalAttack_03",
+                "NormalAttack_04",
+                "NormalAttack_05",
+                "NormalAttack_06",
+                "ExtraAttack",
+                "FallingAttack",
+                "Elemental_Art",
+                "Elemental_Art_Hold",
+                "Elemental_Art_Extra",
+                "Elemental_Burst"
+              ],
+              "bonusCriticalHurt": {
+                "__unk_Q2668214730": false
+              },
+              "damageExtra": {
+                "__unk_Q2668214730": false
+              },
+              "predicates": [],
+              "bonusCritical": {
+                "__unk_Q2668214730": false
+              },
+              "damagePercentage": {
+                "__unk_Q2668214730": false
+              },
+              "ignoreEventInfo": false,
+              "trueDamage": false,
+              "attackType": "None",
+              "__unk_Q3695777311": false,
+              "isUnique": false,
+              "__unk_Q4125547569": -1
+            }
+          ],
+          "onAvatarOut": [],
+          "onThinkInterval": [],
+          "duration": {
+            "__unk_Q2668214730": false
+          },
+          "onAttackLanded": [],
+          "onBeingHealed": [],
+          "stackingOption": {
+            "abilitySpecialName": "",
+            "maxModifierNumForMultipleType": {
+              "__unk_Q2668214730": false
+            },
+            "enableMixedUnique": false
+          },
+          "onAvatarIn": [],
+          "onHeal": [],
+          "onAdded": [],
+          "onRemoved": [],
+          "properties": {},
+          "onReconnect": [],
+          "onHittingOther": [],
+          "modifierName": "",
+          "thinkInterval": {
+            "__unk_Q2668214730": false
+          },
+          "onKill": [],
+          "elementDurability": {
+            "__unk_Q2668214730": false
+          },
+          "buffID": 0,
+          "overrideWeaponElement": false,
+          "state": "AttackUp",
+          "elementType": "None",
+          "timeScale": "Owner",
+          "fireEventWhenApply": false,
+          "stacking": "Refresh",
+          "isDurabilityGlobal": false,
+          "isElementDurabilityMutable": true,
+          "isLimitedProperties": false,
+          "purgeIncrement": 0,
+          "useDummyAbility": false,
+          "onThinkIntervalIsFixedUpdate": false,
+          "isUnique": true,
+          "trimThinkInterval": false
+        }
+      },
+      "abilityMixins": [],
+      "isDynamicAbility": false
+    }
   }
 ]

@@ -178,5 +178,77 @@
     "itemId": 215015,
     "nameTextMapHash": 2523193056,
     "PJBKPANCJPF": 215015
+  },
+  {
+    "avatarId": 10000038,
+    "PJBKPANCJPF": 215016,
+    "descTextMapHash": 152385646,
+    "IHJAKNJCKAP": [
+      "Eff_Avatar_Boy_Sword_Albedo_CharMaster_00_World"
+    ],
+    "hide": false,
+    "itemId": 215016,
+    "AEKFFPBGMAI": "Eff_Avatar_Boy_Sword_Albedo_CharMaster_00_Blow",
+    "nameTextMapHash": 803101840
+  },
+  {
+    "avatarId": 10000029,
+    "PJBKPANCJPF": 215017,
+    "descTextMapHash": 1944442894,
+    "IHJAKNJCKAP": [
+      "Eff_Avatar_Loli_Catalyst_Klee_CharMaster_00_World"
+    ],
+    "hide": false,
+    "itemId": 215017,
+    "AEKFFPBGMAI": "Eff_Avatar_Loli_Catalyst_Klee_CharMaster_00_Blow",
+    "nameTextMapHash": 2486418840
+  },
+  {
+    "avatarId": 10000002,
+    "PJBKPANCJPF": 215018,
+    "descTextMapHash": 898592222,
+    "IHJAKNJCKAP": [
+      "Eff_Avatar_Girl_Sword_Ayaka_CharMaster_00_World"
+    ],
+    "hide": false,
+    "itemId": 215018,
+    "AEKFFPBGMAI": "Eff_Avatar_Girl_Sword_Ayaka_CharMaster_00_Blow",
+    "nameTextMapHash": 2145183016
+  },
+  {
+    "avatarId": 10000066,
+    "PJBKPANCJPF": 215019,
+    "descTextMapHash": 3187093526,
+    "IHJAKNJCKAP": [
+      "Eff_Avatar_Male_Sword_Ayato_CharMaster_00_World"
+    ],
+    "hide": false,
+    "itemId": 215019,
+    "AEKFFPBGMAI": "Eff_Avatar_Male_Sword_Ayato_CharMaster_00_Blow",
+    "nameTextMapHash": 3178733664
+  },
+  {
+    "avatarId": 10000075,
+    "PJBKPANCJPF": 215020,
+    "descTextMapHash": 375255254,
+    "IHJAKNJCKAP": [
+      "Eff_Avatar_Boy_Catalyst_Wanderer_CharMaster_00_World"
+    ],
+    "hide": false,
+    "itemId": 215020,
+    "AEKFFPBGMAI": "Eff_Avatar_Boy_Catalyst_Wanderer_CharMaster_00_Blow",
+    "nameTextMapHash": 4267609472
+  },
+  {
+    "avatarId": 10000091,
+    "PJBKPANCJPF": 215021,
+    "descTextMapHash": 1624600982,
+    "IHJAKNJCKAP": [
+      "Eff_Avatar_Lady_Claymore_Navia_CharMaster_00_World"
+    ],
+    "hide": false,
+    "itemId": 215021,
+    "AEKFFPBGMAI": "Eff_Avatar_Lady_Claymore_Navia_CharMaster_00_Blow",
+    "nameTextMapHash": 1572174096
   }
 ]

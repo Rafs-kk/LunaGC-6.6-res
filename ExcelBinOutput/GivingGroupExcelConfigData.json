@@ -9024,5 +9024,77 @@
       141109
     ],
     "mistakeTalkId": 0
+  },
+  {
+    "finishDialogId": 0,
+    "finishTalkId": 0,
+    "id": 760510101,
+    "itemIds": [
+      101010,
+      101265,
+      101262
+    ],
+    "mistakeTalkId": 0
+  },
+  {
+    "finishDialogId": 0,
+    "finishTalkId": 0,
+    "id": 760600101,
+    "itemIds": [
+      101259,
+      101263,
+      101264
+    ],
+    "mistakeTalkId": 0
+  },
+  {
+    "finishDialogId": 0,
+    "finishTalkId": 0,
+    "id": 100001371,
+    "itemIds": [
+      121378,
+      121379,
+      121380
+    ],
+    "mistakeTalkId": 0
+  },
+  {
+    "finishDialogId": 0,
+    "finishTalkId": 0,
+    "id": 100001381,
+    "itemIds": [
+      121403,
+      121404,
+      121405
+    ],
+    "mistakeTalkId": 0
+  },
+  {
+    "finishDialogId": 0,
+    "finishTalkId": 0,
+    "id": 761680201,
+    "itemIds": [
+      108947,
+      108948
+    ],
+    "mistakeTalkId": 0
+  },
+  {
+    "finishDialogId": 0,
+    "finishTalkId": 0,
+    "id": 1337070061,
+    "itemIds": [
+      121443
+    ],
+    "mistakeTalkId": 0
+  },
+  {
+    "finishDialogId": 0,
+    "finishTalkId": 0,
+    "id": 1337070062,
+    "itemIds": [
+      121444
+    ],
+    "mistakeTalkId": 0
   }
 ]

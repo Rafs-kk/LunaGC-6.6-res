@@ -21118,5 +21118,2117 @@
     "PMIFBDFEKBH": 0,
     "prevTalent": 1215,
     "talentId": 1216
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1497144535,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nefer_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5122,
+    "nameTextMapHash": 1810447841,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nefer_Constellation_1",
+    "paramList": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1221
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3840705663,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nefer_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5122,
+    "nameTextMapHash": 2561039729,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nefer_Constellation_2",
+    "paramList": [
+      2,
+      5,
+      200,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1221,
+    "talentId": 1222
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 632726543,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Nefer_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5122,
+    "nameTextMapHash": 3653127521,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nefer_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1222,
+    "talentId": 1223
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 519046263,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nefer_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5122,
+    "nameTextMapHash": 948261233,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nefer_Constellation_4",
+    "paramList": [
+      0.25,
+      4.5,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1223,
+    "talentId": 1224
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3038082359,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Nefer_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5122,
+    "nameTextMapHash": 2320998809,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nefer_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1224,
+    "talentId": 1225
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3324305687,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nefer_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5122,
+    "nameTextMapHash": 3875848417,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nefer_Constellation_6",
+    "paramList": [
+      0.85,
+      1.2,
+      0.15,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1225,
+    "talentId": 1226
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 549417391,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Durin_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5123,
+    "nameTextMapHash": 39237793,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Durin_Constellation_1",
+    "paramList": [
+      0,
+      20,
+      20,
+      1,
+      0.6,
+      2,
+      1.5,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1231
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1348634111,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Durin_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5123,
+    "nameTextMapHash": 380017041,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Durin_Constellation_2",
+    "paramList": [
+      20,
+      6,
+      0.5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1231,
+    "talentId": 1232
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3009268847,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Durin_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5123,
+    "nameTextMapHash": 1096728017,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Durin_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1232,
+    "talentId": 1233
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1168708743,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Durin_05",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5123,
+    "nameTextMapHash": 1437833273,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Durin_Constellation_4",
+    "paramList": [
+      20,
+      0.3,
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1233,
+    "talentId": 1234
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 437935223,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Durin_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5123,
+    "nameTextMapHash": 1871441105,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Durin_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1234,
+    "talentId": 1235
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 785576135,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Durin_06",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5123,
+    "nameTextMapHash": 13578313,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Durin_Constellation_6",
+    "paramList": [
+      0.3,
+      0.3,
+      6,
+      0.4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1235,
+    "talentId": 1236
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3414486143,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Jahoda_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5124,
+    "nameTextMapHash": 4129793257,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Jahoda_Constellation_1",
+    "paramList": [
+      0.5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1241
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 692331951,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Jahoda_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5124,
+    "nameTextMapHash": 2860272705,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Jahoda_Constellation_2",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1241,
+    "talentId": 1242
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1367736607,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Jahoda_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5124,
+    "nameTextMapHash": 2870980833,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Jahoda_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1242,
+    "talentId": 1243
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 887764199,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Jahoda_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5124,
+    "nameTextMapHash": 3056170129,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Jahoda_Constellation_4",
+    "paramList": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1243,
+    "talentId": 1244
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1228864583,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Jahoda_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5124,
+    "nameTextMapHash": 1070924833,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Jahoda_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1244,
+    "talentId": 1245
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2205471751,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Jahoda_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5124,
+    "nameTextMapHash": 3040403921,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Jahoda_Constellation_6",
+    "paramList": [
+      0.05,
+      0.4,
+      20,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1245,
+    "talentId": 1246
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1658129687,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Columbina_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5125,
+    "nameTextMapHash": 208853393,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Columbina_Constellation_1",
+    "paramList": [
+      6,
+      0.3,
+      8,
+      0.12,
+      8,
+      15,
+      0.015,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1251
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 4200116391,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Columbina_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5125,
+    "nameTextMapHash": 1521147969,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Columbina_Constellation_2",
+    "paramList": [
+      0.34,
+      0.4,
+      8,
+      0.01,
+      0.0035,
+      0.01,
+      0.07,
+      0
+    ],
+    "prevTalent": 1251,
+    "talentId": 1252
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3937790271,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Columbina_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5125,
+    "nameTextMapHash": 1688774665,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Columbina_Constellation_3",
+    "paramList": [
+      0.015,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1252,
+    "talentId": 1253
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1542464775,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Columbina_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5125,
+    "nameTextMapHash": 2583794897,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Columbina_Constellation_4",
+    "paramList": [
+      4,
+      0.125,
+      0.025,
+      0.125,
+      15,
+      0.015,
+      0,
+      0
+    ],
+    "prevTalent": 1253,
+    "talentId": 1254
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 764386431,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Columbina_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5125,
+    "nameTextMapHash": 3676104865,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Columbina_Constellation_5",
+    "paramList": [
+      0.015,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1254,
+    "talentId": 1255
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3864480871,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Columbina_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5125,
+    "nameTextMapHash": 1327982905,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Columbina_Constellation_6",
+    "paramList": [
+      0,
+      8,
+      0.07,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1255,
+    "talentId": 1256
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2398172543,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Zibai_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5126,
+    "nameTextMapHash": 3617147305,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Zibai_Constellation_1",
+    "paramList": [
+      2.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1261
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 657832231,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Zibai_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5126,
+    "nameTextMapHash": 2135085529,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Zibai_Constellation_2",
+    "paramList": [
+      0.3,
+      5.5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1261,
+    "talentId": 1262
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3621916695,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Zibai_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5126,
+    "nameTextMapHash": 2205603945,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Zibai_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1262,
+    "talentId": 1263
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3822333255,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Zibai_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5126,
+    "nameTextMapHash": 1054587241,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Zibai_Constellation_4",
+    "paramList": [
+      2.5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1263,
+    "talentId": 1264
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 313399791,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Zibai_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5126,
+    "nameTextMapHash": 3928240497,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Zibai_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1264,
+    "talentId": 1265
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2935975951,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Zibai_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5126,
+    "nameTextMapHash": 604144097,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Zibai_Constellation_6",
+    "paramList": [
+      0.016,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1265,
+    "talentId": 1266
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 796583231,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Illuga_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5127,
+    "nameTextMapHash": 1793938489,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Illuga_Constellation_1",
+    "paramList": [
+      12,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1271
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3921016055,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Illuga_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5127,
+    "nameTextMapHash": 3766219169,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Illuga_Constellation_2",
+    "paramList": [
+      4,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1271,
+    "talentId": 1272
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3500348631,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Illuga_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5127,
+    "nameTextMapHash": 3229918713,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Illuga_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1272,
+    "talentId": 1273
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2798755983,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Illuga_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5127,
+    "nameTextMapHash": 1262426409,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Illuga_Constellation_4",
+    "paramList": [
+      200,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1273,
+    "talentId": 1274
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3378963807,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Illuga_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5127,
+    "nameTextMapHash": 2633055697,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Illuga_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1274,
+    "talentId": 1275
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 208718975,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Illuga_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5127,
+    "nameTextMapHash": 876659729,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Illuga_Constellation_6",
+    "paramList": [
+      0.1,
+      0.3,
+      0.1,
+      0.3,
+      80,
+      20,
+      0,
+      0
+    ],
+    "prevTalent": 1275,
+    "talentId": 1276
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1359416439,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Varka_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5128,
+    "nameTextMapHash": 2271959505,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Varka_Constellation_1",
+    "paramList": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1281
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2797830287,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Varka_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5128,
+    "nameTextMapHash": 1578787321,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Varka_Constellation_2",
+    "paramList": [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1281,
+    "talentId": 1282
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2885008799,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Varka_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5128,
+    "nameTextMapHash": 3766799793,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Varka_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1282,
+    "talentId": 1283
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1208386967,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Varka_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5128,
+    "nameTextMapHash": 2707568113,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Varka_Constellation_4",
+    "paramList": [
+      0.2,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1283,
+    "talentId": 1284
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 166354135,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Varka_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5128,
+    "nameTextMapHash": 1347124257,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Varka_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1284,
+    "talentId": 1285
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3498248591,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Varka_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5128,
+    "nameTextMapHash": 1038147057,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Varka_Constellation_6",
+    "paramList": [
+      3,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1285,
+    "talentId": 1286
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3437140383,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Lohen_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5129,
+    "nameTextMapHash": 892145105,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Lohen_Constellation_1",
+    "paramList": [
+      4,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1291
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3425708399,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Lohen_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5129,
+    "nameTextMapHash": 535403585,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Lohen_Constellation_2",
+    "paramList": [
+      5,
+      200,
+      8,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1291,
+    "talentId": 1292
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 162141327,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Lohen_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5129,
+    "nameTextMapHash": 3462380601,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Lohen_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1292,
+    "talentId": 1293
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1549670703,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Lohen_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5129,
+    "nameTextMapHash": 824249409,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Lohen_Constellation_4",
+    "paramList": [
+      15,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1293,
+    "talentId": 1294
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1493258319,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Lohen_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5129,
+    "nameTextMapHash": 262187377,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Lohen_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1294,
+    "talentId": 1295
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1835608247,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Lohen_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5129,
+    "nameTextMapHash": 2909499433,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Lohen_Constellation_6",
+    "paramList": [
+      7,
+      1.75,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1295,
+    "talentId": 1296
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2195066319,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Linnea_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5130,
+    "nameTextMapHash": 884857169,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Linnea_Constellation_1",
+    "paramList": [
+      6,
+      18,
+      10,
+      0.75,
+      5,
+      1.5,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1301
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 4286289167,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Linnea_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5130,
+    "nameTextMapHash": 402412945,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Linnea_Constellation_2",
+    "paramList": [
+      0.4,
+      8,
+      1.5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1301,
+    "talentId": 1302
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2898344191,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Linnea_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5130,
+    "nameTextMapHash": 1959451921,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Linnea_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1302,
+    "talentId": 1303
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1373806991,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Linnea_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5130,
+    "nameTextMapHash": 3241637193,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Linnea_Constellation_4",
+    "paramList": [
+      5,
+      0.25,
+      0.25,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1303,
+    "talentId": 1304
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 383185279,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Linnea_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5130,
+    "nameTextMapHash": 3142843721,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Linnea_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1304,
+    "talentId": 1305
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3899109391,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Linnea_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5130,
+    "nameTextMapHash": 2131034433,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Linnea_Constellation_6",
+    "paramList": [
+      0.25,
+      2,
+      0.75,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1305,
+    "talentId": 1306
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2733071871,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nicole_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5131,
+    "nameTextMapHash": 3992621257,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nicole_Constellation_1",
+    "paramList": [
+      6,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1311
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1019025431,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nicole_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5131,
+    "nameTextMapHash": 1122400353,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nicole_Constellation_2",
+    "paramList": [
+      300,
+      0.25,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1311,
+    "talentId": 1312
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3893942703,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Nicole_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5131,
+    "nameTextMapHash": 2436065353,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nicole_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1312,
+    "talentId": 1313
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2182084863,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nicole_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5131,
+    "nameTextMapHash": 1484062001,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nicole_Constellation_4",
+    "paramList": [
+      20,
+      16,
+      0.7,
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1313,
+    "talentId": 1314
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 683535375,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Nicole_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5131,
+    "nameTextMapHash": 2474626129,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nicole_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1314,
+    "talentId": 1315
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 946602255,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Nicole_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5131,
+    "nameTextMapHash": 3796054145,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Nicole_Constellation_6",
+    "paramList": [
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1315,
+    "talentId": 1316
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1009061983,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Prune_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5132,
+    "nameTextMapHash": 2609745105,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Prune_Constellation_1",
+    "paramList": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 0,
+    "talentId": 1321
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 2009885063,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Prune_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5132,
+    "nameTextMapHash": 808942849,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Prune_Constellation_2",
+    "paramList": [
+      0.1,
+      0.05,
+      0.4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1321,
+    "talentId": 1322
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 701277479,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Prune_01",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5132,
+    "nameTextMapHash": 1811719521,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Prune_Constellation_3",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1322,
+    "talentId": 1323
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 860856599,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Prune_03",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5132,
+    "nameTextMapHash": 4291956809,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Prune_Constellation_4",
+    "paramList": [
+      0.8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1323,
+    "talentId": 1324
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 3322059151,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_U_Prune_02",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5132,
+    "nameTextMapHash": 1560454337,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Prune_Constellation_5",
+    "paramList": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1324,
+    "talentId": 1325
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_NONE",
+        "value": 0
+      }
+    ],
+    "descTextMapHash": 1583729751,
+    "KAGDHDEIJMC": 0,
+    "icon": "UI_Talent_S_Prune_04",
+    "mainCostItemCount": 1,
+    "mainCostItemId": 5132,
+    "nameTextMapHash": 3044278545,
+    "PMIFBDFEKBH": 0,
+    "openConfig": "Prune_Constellation_6",
+    "paramList": [
+      4,
+      350,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "prevTalent": 1325,
+    "talentId": 1326
   }
 ]

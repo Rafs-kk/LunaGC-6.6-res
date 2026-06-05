@@ -22027,5 +22027,4735 @@
     "makeTime": 14400,
     "maxAccelerateTime": 14400,
     "quickFetchMaterialNum": 1
+  },
+  {
+    "configID": 1158,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 363410,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1159,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370928,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 10,
+        "id": 101001
+      },
+      {
+        "count": 10,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1160,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370929,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1161,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370930,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101325
+      },
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1162,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 370931,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101325
+      },
+      {
+        "count": 4,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1163,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370932,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 18,
+        "id": 101325
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1164,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 370933,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101325
+      },
+      {
+        "count": 4,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1165,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374127,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1166,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374623,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1167,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374624,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101325
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1168,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373483,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101325
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1169,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373932,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101325
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1170,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374625,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101325
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1171,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 374217,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1172,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373933,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1173,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373934,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101325
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1174,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374626,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 16,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1175,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362404,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101323
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1176,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362405,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101323
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1177,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362406,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101323
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1178,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361118,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 10,
+        "id": 101323
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1179,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364221,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 2,
+        "id": 101404
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1180,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364222,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 2,
+        "id": 101402
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1181,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370830,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101320
+      },
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101402
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1182,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373197,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 10,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1183,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373484,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 2,
+        "id": 101404
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1184,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373485,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101320
+      },
+      {
+        "count": 4,
+        "id": 101404
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1185,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 374218,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1186,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360460,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1187,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373198,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101324
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1188,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373199,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 10,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1189,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363117,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1190,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 363384,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1191,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370934,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1192,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 370935,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 4,
+        "id": 101323
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1193,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 370936,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1194,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 370937,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1195,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 370938,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1196,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371150,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101323
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1197,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 371151,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1198,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371152,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1199,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370939,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101323
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1200,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 370940,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101323
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1201,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373905,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101323
+      },
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1202,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374627,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1203,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373486,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101323
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1204,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373487,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101323
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1205,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374219,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101323
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1206,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373488,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101323
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1207,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374628,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101323
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1208,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360461,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1209,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 360462,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101325
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1210,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373907,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101323
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1211,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373200,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 10,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1212,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373908,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1213,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373909,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101325
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1214,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373910,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101325
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1215,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374800,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101325
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1216,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374803,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 10,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1217,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 362129,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101401
+      },
+      {
+        "count": 6,
+        "id": 101404
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1218,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371001,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1219,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371002,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1220,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 374128,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1221,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371003,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1222,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371004,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1223,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371005,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1224,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371006,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1225,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371007,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1226,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371008,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1227,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371009,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1228,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371010,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 10,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1229,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 374329,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1230,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374330,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101327
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1231,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374331,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1232,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373517,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1233,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 370341,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 4,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1234,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 370342,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1235,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373220,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101328
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1236,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373221,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1237,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373935,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1238,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373936,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1239,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374631,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1240,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374632,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1241,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 373937,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1242,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373490,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101327
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1243,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373491,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101327
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1244,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373492,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1245,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373493,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101329
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1246,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373494,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1247,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374633,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1248,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373938,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1249,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374220,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1250,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374221,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101329
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1251,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374222,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1252,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360463,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1253,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360464,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1254,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360465,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101327
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1255,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 360466,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 12,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1256,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374507,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1257,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374809,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 10,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1258,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 362130,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 10,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101403
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1259,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362131,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101328
+      },
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1260,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 362132,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1261,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361410,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 4,
+        "id": 101401
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1262,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361411,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 6,
+        "id": 101401
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1263,
+    "count": 1,
+    "exp": 30,
+    "furnitureItemID": 364223,
+    "makeTime": 43200,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1264,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364224,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101329
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1265,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361341,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1266,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361342,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101401
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1267,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361343,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101401
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1268,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362320,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101403
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1269,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362321,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101404
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1270,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 362274,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101328
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 6,
+        "id": 101401
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1271,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 362275,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1272,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362276,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101329
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1275,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374636,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101404
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1276,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361119,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 10,
+        "id": 101329
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1277,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361120,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1278,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361511,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101401
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1279,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362282,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1280,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374810,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 10,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1281,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363411,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1282,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363412,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1283,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363413,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101401
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1284,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364225,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101328
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1285,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374637,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1286,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373939,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1287,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374639,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1288,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374640,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1289,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374641,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1290,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373222,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1291,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374818,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 12,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1292,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360467,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1293,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360468,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1294,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374814,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 6,
+        "id": 101402
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1295,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374815,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 6,
+        "id": 101404
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1296,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374816,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 6,
+        "id": 101402
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1297,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361344,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1298,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362277,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1299,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362278,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1300,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362133,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1301,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361412,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1302,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364226,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1303,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371014,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1304,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371015,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1305,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371016,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1306,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371017,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 2,
+        "id": 101403
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1307,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371018,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1308,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 371019,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 10,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1309,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 371020,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 16,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1310,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374332,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1311,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374642,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1312,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374643,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1313,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374644,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1315,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374647,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1316,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373223,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1317,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373224,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1318,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360469,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1319,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360470,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1320,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 360471,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101304
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1321,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 360472,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101304
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1322,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361345,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1323,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361346,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1324,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361347,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101329
+      },
+      {
+        "count": 4,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101404
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1325,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363414,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101327
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1326,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363415,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101329
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1327,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363511,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1328,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362134,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101329
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 2,
+        "id": 101404
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1330,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363119,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101329
+      },
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1331,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363120,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1332,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 361413,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101402
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1333,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361414,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 2,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101404
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1334,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361121,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101329
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1335,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361122,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1336,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361123,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1337,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361124,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1338,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 361125,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1339,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362322,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101404
+      },
+      {
+        "count": 2,
+        "id": 101402
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1340,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 362323,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101402
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1341,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364227,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1342,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364228,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101401
+      },
+      {
+        "count": 2,
+        "id": 101404
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1343,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364229,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1344,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371022,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1345,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371023,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1346,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371024,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1347,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371025,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1348,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371026,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1349,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371027,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1350,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371028,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1351,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 371029,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1352,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373940,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1353,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374129,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1354,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374130,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 8,
+        "id": 101329
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1355,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374823,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 12,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1356,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360107,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1357,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360307,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1358,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360207,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1359,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360507,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1360,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 364230,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1361,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 363512,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101401
+      },
+      {
+        "count": 4,
+        "id": 101403
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1362,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374648,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 12,
+        "id": 101001
+      },
+      {
+        "count": 18,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1363,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373518,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1364,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374649,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1365,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374650,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1366,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374651,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1367,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374131,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1368,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374831,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 10,
+        "id": 101001
+      },
+      {
+        "count": 8,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1369,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 374223,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1370,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373225,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101301
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1371,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373226,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1372,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373227,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101301
+      },
+      {
+        "count": 2,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1373,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 373228,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 4,
+        "id": 101001
+      },
+      {
+        "count": 4,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1374,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360480,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1375,
+    "count": 1,
+    "exp": 60,
+    "furnitureItemID": 360481,
+    "makeTime": 50400,
+    "materialItems": [
+      {
+        "count": 2,
+        "id": 101001
+      },
+      {
+        "count": 6,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
+  },
+  {
+    "configID": 1376,
+    "count": 1,
+    "exp": 90,
+    "furnitureItemID": 374837,
+    "makeTime": 57600,
+    "materialItems": [
+      {
+        "count": 6,
+        "id": 101001
+      },
+      {
+        "count": 12,
+        "id": 101002
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "maxAccelerateTime": 14400
   }
 ]

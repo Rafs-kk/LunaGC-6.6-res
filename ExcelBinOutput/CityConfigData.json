@@ -281,5 +281,22 @@
     "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
     "zoomForExploration": 0.005
+  },
+  {
+    "adventurePointId": 98,
+    "areaIdVec": [
+      1000
+    ],
+    "cityGoddnessDescTextMapHash": 3524575340,
+    "cityGoddnessNameTextMapHash": 3874562232,
+    "cityId": 105,
+    "cityNameTextMapHash": 2265459073,
+    "expeditionMap": "UI_Img_ExplorePageBg",
+    "expeditionWaterMark": "UI_ChapterIcon_Firmament",
+    "JKBOECCOPJC": 201,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
+    "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
+    "zoomForExploration": 0.005
   }
 ]

@@ -35,6 +35,10 @@
     {
       "$type": "AddAbility",
       "abilityName": "Venti_Talent_Windfury"
+    },
+    {
+      "$type": "AddAbility",
+      "abilityName": "Venti_Talent_Windfury_Hexenzirkel"
     }
   ],
   "Venti_Constellation_5": [
@@ -50,6 +54,13 @@
       "$type": "UnlockTalentParam",
       "abilityName": "Hurricane_FX",
       "talentParam": "Venti_Constellation_6"
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Avatar_Venti_Hurricane",
+      "paramSpecial": "Twisted_Hexenzirkel",
+      "paramDelta": "%1",
+      "paramRatio": 0.0
     }
   ],
   "Venti_PermanentSkill_1": [
@@ -144,6 +155,125 @@
       "abilityName": "Avatar_Venti_FallingAnthem",
       "paramSpecial": "FallingAnthem_Normal_Rank_2_Damage",
       "paramDelta": "%11"
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_01",
+      "paramSpecial": "NormalAttack_01_Damage_Percentage",
+      "paramDelta": "%1",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_02",
+      "paramSpecial": "NormalAttack_02_Damage_Percentage",
+      "paramDelta": "%2",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_03",
+      "paramSpecial": "NormalAttack_03_Damage_Percentage",
+      "paramDelta": "%3",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_04",
+      "paramSpecial": "NormalAttack_04_Damage_Percentage",
+      "paramDelta": "%4",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_05",
+      "paramSpecial": "NormalAttack_05_Damage_Percentage",
+      "paramDelta": "%5",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_06",
+      "paramSpecial": "NormalAttack_06_Damage_Percentage",
+      "paramDelta": "%6",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_01",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_02",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_03",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_04",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_05",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_HexenzirkelArrow_Burst_06",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_Constellation01_Arrow",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_Constellation01_Arrow_Fire",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_Constellation01_Arrow_Electric",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_Constellation01_Arrow_Water",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Bullet_Venti_Constellation01_Arrow_Ice",
+      "paramSpecial": "Hexenzirkel_NormalAttack_Ratio",
+      "paramDelta": "%12",
+      "paramRatio": 0.0
     }
   ],
   "Venti_SkillUpgrade_2": [
@@ -172,12 +302,46 @@
       "abilityName": "Avatar_Venti_Hurricane_Mix",
       "paramSpecial": "Hurricane_Mix_Damage",
       "paramDelta": "%2"
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Avatar_Venti_HexenzirkelSkill",
+      "paramSpecial": "Hurricane_Mix_Damage",
+      "paramDelta": "%2",
+      "paramRatio": 0.0
     }
   ],
   "Venti_ProudSkill_NonCombat_1": [
     {
       "$type": "AddAbility",
       "abilityName": "Avatar_Venti_FlyStamina_Reduction"
+    }
+  ],
+  "Venti_Hexenzirkel_1": [
+    {
+      "$type": "AddAbility",
+      "abilityName": "Avatar_Venti_HexenzirkelSkill"
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Avatar_Venti_HexenzirkelSkill",
+      "paramSpecial": "Buff_Ratio",
+      "paramDelta": "%1",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Avatar_Venti_HexenzirkelSkill",
+      "paramSpecial": "Buff_Ratio_Burst",
+      "paramDelta": "%2",
+      "paramRatio": 0.0
+    },
+    {
+      "$type": "ModifyAbility",
+      "abilityName": "Avatar_Venti_HexenzirkelSkill",
+      "paramSpecial": "Buff_Time",
+      "paramDelta": "%3",
+      "paramRatio": 0.0
     }
   ]
 }

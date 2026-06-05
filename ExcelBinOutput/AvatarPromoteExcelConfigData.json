@@ -27068,5 +27068,7397 @@
       }
     ],
     "requiredPlayerLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 119,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 711.12555
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 44.631
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 17.01741
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 119,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104131
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101263
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1216.3989
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 76.3425
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 29.108728
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 28.8
+      }
+    ],
+    "avatarPromoteId": 119,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104132
+      },
+      {
+        "count": 2,
+        "id": 113078
+      },
+      {
+        "count": 10,
+        "id": 101263
+      },
+      {
+        "count": 15,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1890.0969
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 118.6245
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 45.230488
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 57.6
+      }
+    ],
+    "avatarPromoteId": 119,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104132
+      },
+      {
+        "count": 4,
+        "id": 113078
+      },
+      {
+        "count": 20,
+        "id": 101263
+      },
+      {
+        "count": 12,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2395.3704
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 150.336
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 57.321804
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 57.6
+      }
+    ],
+    "avatarPromoteId": 119,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104133
+      },
+      {
+        "count": 8,
+        "id": 113078
+      },
+      {
+        "count": 30,
+        "id": 101263
+      },
+      {
+        "count": 18,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2900.6438
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 182.0475
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 69.413124
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 86.4
+      }
+    ],
+    "avatarPromoteId": 119,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104133
+      },
+      {
+        "count": 12,
+        "id": 113078
+      },
+      {
+        "count": 45,
+        "id": 101263
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3405.9172
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 213.759
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 81.50444
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 115.2
+      }
+    ],
+    "avatarPromoteId": 119,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104134
+      },
+      {
+        "count": 20,
+        "id": 113078
+      },
+      {
+        "count": 60,
+        "id": 101263
+      },
+      {
+        "count": 24,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 120,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 833.7334
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 53.9676
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.466785
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 120,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104141
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101261
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1426.1229
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 92.313
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 40.140556
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 120,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104142
+      },
+      {
+        "count": 2,
+        "id": 113077
+      },
+      {
+        "count": 10,
+        "id": 101261
+      },
+      {
+        "count": 15,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2215.9756
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 143.4402
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.372246
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 120,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104142
+      },
+      {
+        "count": 4,
+        "id": 113077
+      },
+      {
+        "count": 20,
+        "id": 101261
+      },
+      {
+        "count": 12,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2808.3652
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 181.7856
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 79.04601
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 120,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104143
+      },
+      {
+        "count": 8,
+        "id": 113077
+      },
+      {
+        "count": 30,
+        "id": 101261
+      },
+      {
+        "count": 18,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3400.7546
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 220.131
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 95.71979
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 120,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104143
+      },
+      {
+        "count": 12,
+        "id": 113077
+      },
+      {
+        "count": 45,
+        "id": 101261
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3993.1443
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 258.4764
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 112.393555
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.384
+      }
+    ],
+    "avatarPromoteId": 120,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104144
+      },
+      {
+        "count": 20,
+        "id": 113077
+      },
+      {
+        "count": 60,
+        "id": 101261
+      },
+      {
+        "count": 24,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 121,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 701.5892
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 38.0475
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 15.166332
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 121,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104121
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101257
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1200.0868
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 65.08125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.94241
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 24
+      }
+    ],
+    "avatarPromoteId": 121,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104122
+      },
+      {
+        "count": 2,
+        "id": 113077
+      },
+      {
+        "count": 10,
+        "id": 101257
+      },
+      {
+        "count": 15,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1864.7502
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 101.12625
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 40.310513
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 48
+      }
+    ],
+    "avatarPromoteId": 121,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104122
+      },
+      {
+        "count": 4,
+        "id": 113077
+      },
+      {
+        "count": 20,
+        "id": 101257
+      },
+      {
+        "count": 12,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2363.2478
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 128.16
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 51.086594
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 48
+      }
+    ],
+    "avatarPromoteId": 121,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104123
+      },
+      {
+        "count": 8,
+        "id": 113077
+      },
+      {
+        "count": 30,
+        "id": 101257
+      },
+      {
+        "count": 18,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2861.7454
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 155.19376
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 61.86267
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 72
+      }
+    ],
+    "avatarPromoteId": 121,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104123
+      },
+      {
+        "count": 12,
+        "id": 113077
+      },
+      {
+        "count": 45,
+        "id": 101257
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3360.243
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 182.2275
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 72.63875
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 96
+      }
+    ],
+    "avatarPromoteId": 121,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104124
+      },
+      {
+        "count": 20,
+        "id": 113077
+      },
+      {
+        "count": 60,
+        "id": 101257
+      },
+      {
+        "count": 24,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 122,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 847.95593
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 53.352
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 22.987871
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 122,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104131
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101263
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1450.4509
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 91.26
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.32136
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 122,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104132
+      },
+      {
+        "count": 2,
+        "id": 113079
+      },
+      {
+        "count": 10,
+        "id": 101263
+      },
+      {
+        "count": 15,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2253.7776
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 141.804
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 61.099342
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 122,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104132
+      },
+      {
+        "count": 4,
+        "id": 113079
+      },
+      {
+        "count": 20,
+        "id": 101263
+      },
+      {
+        "count": 12,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2856.2727
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 179.712
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.43283
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 122,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104133
+      },
+      {
+        "count": 8,
+        "id": 113079
+      },
+      {
+        "count": 30,
+        "id": 101263
+      },
+      {
+        "count": 18,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3458.7676
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 217.62
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.76632
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 122,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104133
+      },
+      {
+        "count": 12,
+        "id": 113079
+      },
+      {
+        "count": 45,
+        "id": 101263
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4061.2627
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 255.528
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 110.09981
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.384
+      }
+    ],
+    "avatarPromoteId": 122,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104134
+      },
+      {
+        "count": 20,
+        "id": 113079
+      },
+      {
+        "count": 60,
+        "id": 101263
+      },
+      {
+        "count": 24,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 123,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 829.6465
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 54.891
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.14751
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 123,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104111
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101261
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1419.1322
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 93.8925
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.594425
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 123,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104112
+      },
+      {
+        "count": 2,
+        "id": 113080
+      },
+      {
+        "count": 10,
+        "id": 101261
+      },
+      {
+        "count": 15,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2205.113
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 145.8945
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 61.523643
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 123,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104112
+      },
+      {
+        "count": 4,
+        "id": 113080
+      },
+      {
+        "count": 20,
+        "id": 101261
+      },
+      {
+        "count": 12,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2794.5986
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 184.896
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.97056
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 123,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104113
+      },
+      {
+        "count": 8,
+        "id": 113080
+      },
+      {
+        "count": 30,
+        "id": 101261
+      },
+      {
+        "count": 18,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3384.0842
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 223.8975
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 94.41747
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 123,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104113
+      },
+      {
+        "count": 12,
+        "id": 113080
+      },
+      {
+        "count": 45,
+        "id": 101261
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3973.57
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 262.899
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 110.86439
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.384
+      }
+    ],
+    "avatarPromoteId": 123,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104114
+      },
+      {
+        "count": 20,
+        "id": 113080
+      },
+      {
+        "count": 60,
+        "id": 101261
+      },
+      {
+        "count": 24,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_HEAL_ADD",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 124,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 604.1841
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 36.3375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 13.96899
+      },
+      {
+        "propType": "FIGHT_PROP_HEAL_ADD",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 124,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104151
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101257
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1033.4728
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 62.15625
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.894325
+      },
+      {
+        "propType": "FIGHT_PROP_HEAL_ADD",
+        "value": 0.0462
+      }
+    ],
+    "avatarPromoteId": 124,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104152
+      },
+      {
+        "count": 2,
+        "id": 113078
+      },
+      {
+        "count": 10,
+        "id": 101257
+      },
+      {
+        "count": 15,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1605.8577
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 96.58125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 37.128105
+      },
+      {
+        "propType": "FIGHT_PROP_HEAL_ADD",
+        "value": 0.0923
+      }
+    ],
+    "avatarPromoteId": 124,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104152
+      },
+      {
+        "count": 4,
+        "id": 113078
+      },
+      {
+        "count": 20,
+        "id": 101257
+      },
+      {
+        "count": 12,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2035.1465
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 122.4
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 47.05344
+      },
+      {
+        "propType": "FIGHT_PROP_HEAL_ADD",
+        "value": 0.0923
+      }
+    ],
+    "avatarPromoteId": 124,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104153
+      },
+      {
+        "count": 8,
+        "id": 113078
+      },
+      {
+        "count": 30,
+        "id": 101257
+      },
+      {
+        "count": 18,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2464.435
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 148.21875
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 56.978775
+      },
+      {
+        "propType": "FIGHT_PROP_HEAL_ADD",
+        "value": 0.1385
+      }
+    ],
+    "avatarPromoteId": 124,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104153
+      },
+      {
+        "count": 12,
+        "id": 113078
+      },
+      {
+        "count": 45,
+        "id": 101257
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2893.7239
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 174.0375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 66.90411
+      },
+      {
+        "propType": "FIGHT_PROP_HEAL_ADD",
+        "value": 0.1846
+      }
+    ],
+    "avatarPromoteId": 124,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104154
+      },
+      {
+        "count": 20,
+        "id": 113078
+      },
+      {
+        "count": 60,
+        "id": 101257
+      },
+      {
+        "count": 24,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 125,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 980.86285
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 34.371
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 6.38552
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 125,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104121
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101268
+      },
+      {
+        "count": 3,
+        "id": 112002
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1677.7917
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 58.7925
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 10.9226
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.048
+      }
+    ],
+    "avatarPromoteId": 125,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104122
+      },
+      {
+        "count": 2,
+        "id": 113079
+      },
+      {
+        "count": 10,
+        "id": 101268
+      },
+      {
+        "count": 15,
+        "id": 112002
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2607.0303
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 91.3545
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 16.97204
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 125,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104122
+      },
+      {
+        "count": 4,
+        "id": 113079
+      },
+      {
+        "count": 20,
+        "id": 101268
+      },
+      {
+        "count": 12,
+        "id": 112003
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3303.959
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 115.776
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 21.50912
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 125,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104123
+      },
+      {
+        "count": 8,
+        "id": 113079
+      },
+      {
+        "count": 30,
+        "id": 101268
+      },
+      {
+        "count": 18,
+        "id": 112003
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4000.888
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 140.1975
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 26.0462
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.144
+      }
+    ],
+    "avatarPromoteId": 125,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104123
+      },
+      {
+        "count": 12,
+        "id": 113079
+      },
+      {
+        "count": 45,
+        "id": 101268
+      },
+      {
+        "count": 12,
+        "id": 112004
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4697.817
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 164.619
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 30.58328
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 125,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104124
+      },
+      {
+        "count": 20,
+        "id": 113079
+      },
+      {
+        "count": 60,
+        "id": 101268
+      },
+      {
+        "count": 24,
+        "id": 112004
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 126,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 862.3419
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 63.8685
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 15.006
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 126,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104171
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 100030
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1475.0585
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 109.2488
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.6681
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 126,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104172
+      },
+      {
+        "count": 2,
+        "id": 113084
+      },
+      {
+        "count": 10,
+        "id": 100030
+      },
+      {
+        "count": 15,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2292.014
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 169.7558
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.8843
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 126,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104172
+      },
+      {
+        "count": 4,
+        "id": 113084
+      },
+      {
+        "count": 20,
+        "id": 100030
+      },
+      {
+        "count": 12,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2904.7307
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 215.136
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 50.5464
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 126,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104173
+      },
+      {
+        "count": 8,
+        "id": 113084
+      },
+      {
+        "count": 30,
+        "id": 100030
+      },
+      {
+        "count": 18,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3517.4473
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 260.5163
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 61.2086
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 126,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104173
+      },
+      {
+        "count": 12,
+        "id": 113084
+      },
+      {
+        "count": 45,
+        "id": 100030
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4130.164
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 305.8965
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 71.8707
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.384
+      }
+    ],
+    "avatarPromoteId": 126,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104174
+      },
+      {
+        "count": 20,
+        "id": 113084
+      },
+      {
+        "count": 60,
+        "id": 100030
+      },
+      {
+        "count": 24,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 127,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 749.27
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 50.958
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 11.97342
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 127,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104171
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101269
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1281.6461
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 87.165
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 20.48085
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 24
+      }
+    ],
+    "avatarPromoteId": 127,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104172
+      },
+      {
+        "count": 2,
+        "id": 113080
+      },
+      {
+        "count": 10,
+        "id": 101269
+      },
+      {
+        "count": 15,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1991.4808
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 135.441
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.82409
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 48
+      }
+    ],
+    "avatarPromoteId": 127,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104172
+      },
+      {
+        "count": 4,
+        "id": 113080
+      },
+      {
+        "count": 20,
+        "id": 101269
+      },
+      {
+        "count": 12,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2523.857
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 171.648
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 40.33152
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 48
+      }
+    ],
+    "avatarPromoteId": 127,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104173
+      },
+      {
+        "count": 8,
+        "id": 113080
+      },
+      {
+        "count": 30,
+        "id": 101269
+      },
+      {
+        "count": 18,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3056.233
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 207.855
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 48.83895
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 72
+      }
+    ],
+    "avatarPromoteId": 127,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104173
+      },
+      {
+        "count": 12,
+        "id": 113080
+      },
+      {
+        "count": 45,
+        "id": 101269
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3588.6091
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 244.062
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 57.34638
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 96
+      }
+    ],
+    "avatarPromoteId": 127,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104174
+      },
+      {
+        "count": 20,
+        "id": 113080
+      },
+      {
+        "count": 60,
+        "id": 101269
+      },
+      {
+        "count": 24,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 128,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 841.9073
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 53.0955
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.546604
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 128,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104151
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 100021
+      },
+      {
+        "count": 3,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1440.1045
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 90.82125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 40.27709
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 128,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104152
+      },
+      {
+        "count": 2,
+        "id": 113085
+      },
+      {
+        "count": 10,
+        "id": 100021
+      },
+      {
+        "count": 15,
+        "id": 112122
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2237.701
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 141.12225
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.584396
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 128,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104152
+      },
+      {
+        "count": 4,
+        "id": 113085
+      },
+      {
+        "count": 20,
+        "id": 100021
+      },
+      {
+        "count": 12,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2835.8982
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 178.848
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 79.31488
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 128,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104153
+      },
+      {
+        "count": 8,
+        "id": 113085
+      },
+      {
+        "count": 30,
+        "id": 100021
+      },
+      {
+        "count": 18,
+        "id": 112123
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3434.0955
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 216.57375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 96.045364
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 128,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104153
+      },
+      {
+        "count": 12,
+        "id": 113085
+      },
+      {
+        "count": 45,
+        "id": 100021
+      },
+      {
+        "count": 12,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4032.2927
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 254.2995
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 112.77585
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.384
+      }
+    ],
+    "avatarPromoteId": 128,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104154
+      },
+      {
+        "count": 20,
+        "id": 113085
+      },
+      {
+        "count": 60,
+        "id": 100021
+      },
+      {
+        "count": 24,
+        "id": 112124
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 130,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 660.44763
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 60.534
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 9.57828
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 130,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104171
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101272
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1129.7131
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 103.545
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 16.3839
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.048
+      }
+    ],
+    "avatarPromoteId": 130,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104172
+      },
+      {
+        "count": 2,
+        "id": 113086
+      },
+      {
+        "count": 10,
+        "id": 101272
+      },
+      {
+        "count": 15,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1755.4003
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 160.893
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 25.45806
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 130,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104172
+      },
+      {
+        "count": 4,
+        "id": 113086
+      },
+      {
+        "count": 20,
+        "id": 101272
+      },
+      {
+        "count": 12,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2224.6658
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 203.904
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 32.26368
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 130,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104173
+      },
+      {
+        "count": 8,
+        "id": 113086
+      },
+      {
+        "count": 30,
+        "id": 101272
+      },
+      {
+        "count": 18,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2693.9312
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 246.915
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.0693
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.144
+      }
+    ],
+    "avatarPromoteId": 130,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104173
+      },
+      {
+        "count": 12,
+        "id": 113086
+      },
+      {
+        "count": 45,
+        "id": 101272
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3163.1965
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 289.926
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 45.87492
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 130,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104174
+      },
+      {
+        "count": 20,
+        "id": 113086
+      },
+      {
+        "count": 60,
+        "id": 101272
+      },
+      {
+        "count": 24,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 129,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 858.255
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 52.326
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 22.987871
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 129,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104161
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101272
+      },
+      {
+        "count": 3,
+        "id": 112011
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1468.0677
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 89.505
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.32136
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 129,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104162
+      },
+      {
+        "count": 2,
+        "id": 113085
+      },
+      {
+        "count": 10,
+        "id": 101272
+      },
+      {
+        "count": 15,
+        "id": 112011
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2281.1514
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 139.077
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 61.099342
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 129,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104162
+      },
+      {
+        "count": 4,
+        "id": 113085
+      },
+      {
+        "count": 20,
+        "id": 101272
+      },
+      {
+        "count": 12,
+        "id": 112012
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2890.964
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 176.256
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.43283
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 129,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104163
+      },
+      {
+        "count": 8,
+        "id": 113085
+      },
+      {
+        "count": 30,
+        "id": 101272
+      },
+      {
+        "count": 18,
+        "id": 112012
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3500.7769
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 213.435
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.76632
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 129,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104163
+      },
+      {
+        "count": 12,
+        "id": 113085
+      },
+      {
+        "count": 45,
+        "id": 101272
+      },
+      {
+        "count": 12,
+        "id": 112013
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4110.59
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 250.614
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 110.09981
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.384
+      }
+    ],
+    "avatarPromoteId": 129,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104164
+      },
+      {
+        "count": 20,
+        "id": 113085
+      },
+      {
+        "count": 60,
+        "id": 101272
+      },
+      {
+        "count": 24,
+        "id": 112013
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 131,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 694.77783
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 37.5516
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 22.828234
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 131,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104111
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101269
+      },
+      {
+        "count": 3,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1188.4358
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 64.233
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.048294
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.072
+      }
+    ],
+    "avatarPromoteId": 131,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104112
+      },
+      {
+        "count": 2,
+        "id": 113084
+      },
+      {
+        "count": 10,
+        "id": 101269
+      },
+      {
+        "count": 15,
+        "id": 112125
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1846.6464
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 99.8082
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 60.67504
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.144
+      }
+    ],
+    "avatarPromoteId": 131,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104112
+      },
+      {
+        "count": 4,
+        "id": 113084
+      },
+      {
+        "count": 20,
+        "id": 101269
+      },
+      {
+        "count": 12,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2340.3042
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 126.4896
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 76.8951
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.144
+      }
+    ],
+    "avatarPromoteId": 131,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104113
+      },
+      {
+        "count": 8,
+        "id": 113084
+      },
+      {
+        "count": 30,
+        "id": 101269
+      },
+      {
+        "count": 18,
+        "id": 112126
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2833.9622
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 153.171
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.115166
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.216
+      }
+    ],
+    "avatarPromoteId": 131,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104113
+      },
+      {
+        "count": 12,
+        "id": 113084
+      },
+      {
+        "count": 45,
+        "id": 101269
+      },
+      {
+        "count": 12,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3327.62
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 179.8524
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 109.33523
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 131,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104114
+      },
+      {
+        "count": 20,
+        "id": 113084
+      },
+      {
+        "count": 60,
+        "id": 101269
+      },
+      {
+        "count": 24,
+        "id": 112127
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 132,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 606.22754
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 36.3375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 13.835952
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 132,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104151
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101268
+      },
+      {
+        "count": 3,
+        "id": 112035
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1036.9681
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 62.15625
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.66676
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.06
+      }
+    ],
+    "avatarPromoteId": 132,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104152
+      },
+      {
+        "count": 2,
+        "id": 113079
+      },
+      {
+        "count": 10,
+        "id": 101268
+      },
+      {
+        "count": 15,
+        "id": 112035
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1611.2891
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 96.58125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 36.774506
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 132,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104152
+      },
+      {
+        "count": 4,
+        "id": 113079
+      },
+      {
+        "count": 20,
+        "id": 101268
+      },
+      {
+        "count": 12,
+        "id": 112036
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2042.0297
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 122.4
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 46.605312
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 132,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104153
+      },
+      {
+        "count": 8,
+        "id": 113079
+      },
+      {
+        "count": 30,
+        "id": 101268
+      },
+      {
+        "count": 18,
+        "id": 112036
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2472.7703
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 148.21875
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 56.43612
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.18
+      }
+    ],
+    "avatarPromoteId": 132,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104153
+      },
+      {
+        "count": 12,
+        "id": 113079
+      },
+      {
+        "count": 45,
+        "id": 101268
+      },
+      {
+        "count": 12,
+        "id": 112037
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2903.511
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 174.0375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 66.26693
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.24
+      }
+    ],
+    "avatarPromoteId": 132,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104154
+      },
+      {
+        "count": 20,
+        "id": 113079
+      },
+      {
+        "count": 60,
+        "id": 101268
+      },
+      {
+        "count": 24,
+        "id": 112037
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 110,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 667.5315
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 39.97125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 16.097597
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 110,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104141
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101255
+      },
+      {
+        "count": 3,
+        "id": 112104
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1141.8302
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 68.37187
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 27.535364
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.06
+      }
+    ],
+    "avatarPromoteId": 110,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104142
+      },
+      {
+        "count": 2,
+        "id": 113067
+      },
+      {
+        "count": 10,
+        "id": 101255
+      },
+      {
+        "count": 15,
+        "id": 112104
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1774.2284
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 106.23937
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 42.78572
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 110,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104142
+      },
+      {
+        "count": 4,
+        "id": 113067
+      },
+      {
+        "count": 20,
+        "id": 101255
+      },
+      {
+        "count": 12,
+        "id": 112105
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2248.527
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 134.64
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 54.223488
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 110,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104143
+      },
+      {
+        "count": 8,
+        "id": 113067
+      },
+      {
+        "count": 30,
+        "id": 101255
+      },
+      {
+        "count": 18,
+        "id": 112105
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2722.8257
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 163.04062
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 65.661255
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.18
+      }
+    ],
+    "avatarPromoteId": 110,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104143
+      },
+      {
+        "count": 12,
+        "id": 113067
+      },
+      {
+        "count": 45,
+        "id": 101255
+      },
+      {
+        "count": 12,
+        "id": 112106
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3197.1245
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 191.44125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.09902
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.24
+      }
+    ],
+    "avatarPromoteId": 110,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104144
+      },
+      {
+        "count": 20,
+        "id": 113067
+      },
+      {
+        "count": 60,
+        "id": 101255
+      },
+      {
+        "count": 24,
+        "id": 112106
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 111,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 847.62897
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 52.1721
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.786062
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 111,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104141
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101254
+      },
+      {
+        "count": 3,
+        "id": 112101
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1449.8916
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 89.24175
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 40.686684
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.048
+      }
+    ],
+    "avatarPromoteId": 111,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104142
+      },
+      {
+        "count": 2,
+        "id": 113072
+      },
+      {
+        "count": 10,
+        "id": 101254
+      },
+      {
+        "count": 15,
+        "id": 112101
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2252.9087
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 138.66795
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 63.220848
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 111,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104142
+      },
+      {
+        "count": 4,
+        "id": 113072
+      },
+      {
+        "count": 20,
+        "id": 101254
+      },
+      {
+        "count": 12,
+        "id": 112102
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2855.1714
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 175.7376
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 80.121475
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 111,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104143
+      },
+      {
+        "count": 8,
+        "id": 113072
+      },
+      {
+        "count": 30,
+        "id": 101254
+      },
+      {
+        "count": 18,
+        "id": 112102
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3457.434
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 212.80725
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 97.022095
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.144
+      }
+    ],
+    "avatarPromoteId": 111,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104143
+      },
+      {
+        "count": 12,
+        "id": 113072
+      },
+      {
+        "count": 45,
+        "id": 101254
+      },
+      {
+        "count": 12,
+        "id": 112103
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4059.6965
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 249.8769
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 113.922714
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 111,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104144
+      },
+      {
+        "count": 20,
+        "id": 113072
+      },
+      {
+        "count": 60,
+        "id": 101254
+      },
+      {
+        "count": 24,
+        "id": 112103
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 112,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 890.95044
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 48.8376
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.14751
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 112,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104161
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101232
+      },
+      {
+        "count": 3,
+        "id": 112083
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1523.9941
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 83.538
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.594425
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.048
+      }
+    ],
+    "avatarPromoteId": 112,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104162
+      },
+      {
+        "count": 2,
+        "id": 113076
+      },
+      {
+        "count": 10,
+        "id": 101232
+      },
+      {
+        "count": 15,
+        "id": 112083
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2368.0525
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 129.8052
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 61.523643
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 112,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104162
+      },
+      {
+        "count": 4,
+        "id": 113076
+      },
+      {
+        "count": 20,
+        "id": 101232
+      },
+      {
+        "count": 12,
+        "id": 112084
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3001.0962
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 164.5056
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 77.97056
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 112,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104163
+      },
+      {
+        "count": 8,
+        "id": 113076
+      },
+      {
+        "count": 30,
+        "id": 101232
+      },
+      {
+        "count": 18,
+        "id": 112084
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3634.14
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 199.206
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 94.41747
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.144
+      }
+    ],
+    "avatarPromoteId": 112,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104163
+      },
+      {
+        "count": 12,
+        "id": 113076
+      },
+      {
+        "count": 45,
+        "id": 101232
+      },
+      {
+        "count": 12,
+        "id": 112085
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4267.1836
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 233.9064
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 110.86439
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 112,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104164
+      },
+      {
+        "count": 20,
+        "id": 113076
+      },
+      {
+        "count": 60,
+        "id": 101232
+      },
+      {
+        "count": 24,
+        "id": 112085
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 113,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 631.4303
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 37.91925
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 11.175192
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 113,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104151
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101250
+      },
+      {
+        "count": 3,
+        "id": 112101
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1080.0781
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 64.86188
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 19.11546
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 24
+      }
+    ],
+    "avatarPromoteId": 113,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104152
+      },
+      {
+        "count": 2,
+        "id": 113072
+      },
+      {
+        "count": 10,
+        "id": 101250
+      },
+      {
+        "count": 15,
+        "id": 112101
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1678.2753
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 100.78538
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 29.702484
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 48
+      }
+    ],
+    "avatarPromoteId": 113,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104152
+      },
+      {
+        "count": 4,
+        "id": 113072
+      },
+      {
+        "count": 20,
+        "id": 101250
+      },
+      {
+        "count": 12,
+        "id": 112102
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2126.923
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 127.728
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 37.642754
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 48
+      }
+    ],
+    "avatarPromoteId": 113,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104153
+      },
+      {
+        "count": 8,
+        "id": 113072
+      },
+      {
+        "count": 30,
+        "id": 101250
+      },
+      {
+        "count": 18,
+        "id": 112102
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2575.5708
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 154.67062
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 45.58302
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 72
+      }
+    ],
+    "avatarPromoteId": 113,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104153
+      },
+      {
+        "count": 12,
+        "id": 113072
+      },
+      {
+        "count": 45,
+        "id": 101250
+      },
+      {
+        "count": 12,
+        "id": 112103
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3024.2188
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 181.61325
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 53.52329
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+        "value": 96
+      }
+    ],
+    "avatarPromoteId": 113,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104154
+      },
+      {
+        "count": 20,
+        "id": 113072
+      },
+      {
+        "count": 60,
+        "id": 101250
+      },
+      {
+        "count": 24,
+        "id": 112103
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 114,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 828.8291
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 53.8137
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 23.9457
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 114,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104161
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101254
+      },
+      {
+        "count": 3,
+        "id": 112083
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1417.734
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 92.04975
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 40.95975
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 114,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104162
+      },
+      {
+        "count": 2,
+        "id": 113067
+      },
+      {
+        "count": 10,
+        "id": 101254
+      },
+      {
+        "count": 15,
+        "id": 112083
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2202.9404
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 143.03114
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 63.64515
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 114,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104162
+      },
+      {
+        "count": 4,
+        "id": 113067
+      },
+      {
+        "count": 20,
+        "id": 101254
+      },
+      {
+        "count": 12,
+        "id": 112084
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2791.8455
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 181.2672
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 80.6592
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 114,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104163
+      },
+      {
+        "count": 8,
+        "id": 113067
+      },
+      {
+        "count": 30,
+        "id": 101254
+      },
+      {
+        "count": 18,
+        "id": 112084
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3380.7502
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 219.50325
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 97.67325
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.288
+      }
+    ],
+    "avatarPromoteId": 114,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104163
+      },
+      {
+        "count": 12,
+        "id": 113067
+      },
+      {
+        "count": 45,
+        "id": 101254
+      },
+      {
+        "count": 12,
+        "id": 112085
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3969.6553
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 257.7393
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 114.6873
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0.384
+      }
+    ],
+    "avatarPromoteId": 114,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104164
+      },
+      {
+        "count": 20,
+        "id": 113067
+      },
+      {
+        "count": 60,
+        "id": 101254
+      },
+      {
+        "count": 24,
+        "id": 112085
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 115,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 783.32776
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 35.055
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 11.840382
+      },
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 115,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104121
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 100056
+      },
+      {
+        "count": 3,
+        "id": 112011
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1339.9027
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 59.9625
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 20.253284
+      },
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.06
+      }
+    ],
+    "avatarPromoteId": 115,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104122
+      },
+      {
+        "count": 2,
+        "id": 113076
+      },
+      {
+        "count": 10,
+        "id": 100056
+      },
+      {
+        "count": 15,
+        "id": 112011
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2082.0027
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 93.1725
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.47049
+      },
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 115,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104122
+      },
+      {
+        "count": 4,
+        "id": 113076
+      },
+      {
+        "count": 20,
+        "id": 100056
+      },
+      {
+        "count": 12,
+        "id": 112012
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2638.5776
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 118.08
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 39.883392
+      },
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 115,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104123
+      },
+      {
+        "count": 8,
+        "id": 113076
+      },
+      {
+        "count": 30,
+        "id": 100056
+      },
+      {
+        "count": 18,
+        "id": 112012
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3195.1526
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 142.9875
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 48.296295
+      },
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.18
+      }
+    ],
+    "avatarPromoteId": 115,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104123
+      },
+      {
+        "count": 12,
+        "id": 113076
+      },
+      {
+        "count": 45,
+        "id": 100056
+      },
+      {
+        "count": 12,
+        "id": 112013
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3751.7275
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 167.895
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 56.709198
+      },
+      {
+        "propType": "FIGHT_PROP_HP_PERCENT",
+        "value": 0.24
+      }
+    ],
+    "avatarPromoteId": 115,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104124
+      },
+      {
+        "count": 20,
+        "id": 113076
+      },
+      {
+        "count": 60,
+        "id": 100056
+      },
+      {
+        "count": 24,
+        "id": 112013
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 116,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 841.9073
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 55.2501
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 22.030045
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 116,
+    "costItems": [
+      {
+        "count": 1,
+        "id": 104141
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 3,
+        "id": 101252
+      },
+      {
+        "count": 3,
+        "id": 112104
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 20000,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1440.1045
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 94.50675
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 37.68297
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.048
+      }
+    ],
+    "avatarPromoteId": 116,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104142
+      },
+      {
+        "count": 2,
+        "id": 113076
+      },
+      {
+        "count": 10,
+        "id": 101252
+      },
+      {
+        "count": 15,
+        "id": 112104
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 40000,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2237.701
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 146.84895
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 58.55354
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 116,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104142
+      },
+      {
+        "count": 4,
+        "id": 113076
+      },
+      {
+        "count": 20,
+        "id": 101252
+      },
+      {
+        "count": 12,
+        "id": 112105
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 60000,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2835.8982
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 186.1056
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 74.20647
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.096
+      }
+    ],
+    "avatarPromoteId": 116,
+    "costItems": [
+      {
+        "count": 3,
+        "id": 104143
+      },
+      {
+        "count": 8,
+        "id": 113076
+      },
+      {
+        "count": 30,
+        "id": 101252
+      },
+      {
+        "count": 18,
+        "id": 112105
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 80000,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3434.0955
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 225.36224
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 89.85939
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.144
+      }
+    ],
+    "avatarPromoteId": 116,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104143
+      },
+      {
+        "count": 12,
+        "id": 113076
+      },
+      {
+        "count": 45,
+        "id": 101252
+      },
+      {
+        "count": 12,
+        "id": 112106
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 100000,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 4032.2927
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 264.6189
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 105.512314
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL",
+        "value": 0.192
+      }
+    ],
+    "avatarPromoteId": 116,
+    "costItems": [
+      {
+        "count": 6,
+        "id": 104144
+      },
+      {
+        "count": 20,
+        "id": 113076
+      },
+      {
+        "count": 60,
+        "id": 101252
+      },
+      {
+        "count": 24,
+        "id": 112106
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 120000,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 117,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 681.15454
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 42.75
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 13.3038
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 117,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 0,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1165.1328
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 73.125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 22.7565
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.06
+      }
+    ],
+    "avatarPromoteId": 117,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 0,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1810.4371
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 113.625
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 35.3601
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 117,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 0,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2294.4153
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 144
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 44.8128
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 117,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 0,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2778.3936
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 174.375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 54.2655
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.18
+      }
+    ],
+    "avatarPromoteId": 117,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 0,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3262.3718
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 204.75
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 63.7182
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.24
+      }
+    ],
+    "avatarPromoteId": 117,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 0,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 118,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 681.15454
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 42.75
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 13.3038
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 118,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 15,
+    "scoinCost": 0,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1165.1328
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 73.125
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 22.7565
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.06
+      }
+    ],
+    "avatarPromoteId": 118,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 25,
+    "scoinCost": 0,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 1810.4371
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 113.625
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 35.3601
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 118,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 30,
+    "scoinCost": 0,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2294.4153
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 144
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 44.8128
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.12
+      }
+    ],
+    "avatarPromoteId": 118,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 35,
+    "scoinCost": 0,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 2778.3936
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 174.375
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 54.2655
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.18
+      }
+    ],
+    "avatarPromoteId": 118,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 40,
+    "scoinCost": 0,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 3262.3718
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 204.75
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 63.7182
+      },
+      {
+        "propType": "FIGHT_PROP_ATTACK_PERCENT",
+        "value": 0.24
+      }
+    ],
+    "avatarPromoteId": 118,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 50,
+    "scoinCost": 0,
+    "unlockMaxLevel": 90
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 999,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 0,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 20
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 999,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 1,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 40
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 999,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 2,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 50
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 999,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 3,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 60
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 999,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 4,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 70
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 999,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 5,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 80
+  },
+  {
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_HP",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_DEFENSE",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 0
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT",
+        "value": 0
+      }
+    ],
+    "avatarPromoteId": 999,
+    "costItems": [
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      },
+      {
+        "count": 0,
+        "id": 0
+      }
+    ],
+    "promoteAudio": "",
+    "promoteLevel": 6,
+    "requiredPlayerLevel": 0,
+    "scoinCost": 0,
+    "unlockMaxLevel": 90
   }
 ]

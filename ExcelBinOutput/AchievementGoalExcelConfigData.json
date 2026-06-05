@@ -453,5 +453,26 @@
     "id": 63,
     "nameTextMapHash": 1747176544,
     "orderId": 65
+  },
+  {
+    "finishRewardId": 890064,
+    "iconPath": "UI_AchievementIcon_A001_Part6",
+    "id": 65,
+    "nameTextMapHash": 490506584,
+    "orderId": 8
+  },
+  {
+    "finishRewardId": 890065,
+    "iconPath": "UI_AchievementIcon_A023_Part2",
+    "id": 66,
+    "nameTextMapHash": 2689188168,
+    "orderId": 67
+  },
+  {
+    "finishRewardId": 890066,
+    "iconPath": "UI_AchievementIcon_A024",
+    "id": 67,
+    "nameTextMapHash": 1233313176,
+    "orderId": 69
   }
 ]

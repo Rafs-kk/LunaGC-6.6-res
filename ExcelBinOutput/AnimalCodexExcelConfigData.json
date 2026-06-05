@@ -13073,5 +13073,530 @@
     "sortOrder": 13040,
     "subType": "CODEX_SUBTYPE_CRITTER",
     "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 805,
+    "descTextMapHash": 1466359228,
+    "LICBOMOOAFI": [
+      1360708857
+    ],
+    "LJMGOHDNFMO": [
+      2244149631
+    ],
+    "id": 20080501,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Moonbeast_Water",
+    "OHCCAFLBIAJ": 3812267103,
+    "pushTipsCodexId": 60500138,
+    "showOnlyUnlocked": false,
+    "sortOrder": 62,
+    "subType": "CODEX_SUBTYPE_ELEMENTAL",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 806,
+    "descTextMapHash": 1758176492,
+    "LICBOMOOAFI": [
+      1588263313
+    ],
+    "LJMGOHDNFMO": [
+      2148754823
+    ],
+    "id": 20080601,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Moonbeast_Wind",
+    "OHCCAFLBIAJ": 2194494527,
+    "pushTipsCodexId": 60500138,
+    "showOnlyUnlocked": false,
+    "sortOrder": 63,
+    "subType": "CODEX_SUBTYPE_ELEMENTAL",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 807,
+    "descTextMapHash": 1421153556,
+    "LICBOMOOAFI": [
+      1227083049
+    ],
+    "LJMGOHDNFMO": [
+      3362777271
+    ],
+    "id": 20080701,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Moonbeast_Rock",
+    "OHCCAFLBIAJ": 3405297063,
+    "pushTipsCodexId": 60500138,
+    "showOnlyUnlocked": false,
+    "sortOrder": 67,
+    "subType": "CODEX_SUBTYPE_ELEMENTAL",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 810,
+    "descTextMapHash": 3808490548,
+    "LICBOMOOAFI": [
+      374727849
+    ],
+    "LJMGOHDNFMO": [
+      3401623031
+    ],
+    "id": 20081001,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_HerraFrost",
+    "OHCCAFLBIAJ": 1047252231,
+    "pushTipsCodexId": 60500145,
+    "showOnlyUnlocked": false,
+    "sortOrder": 68,
+    "subType": "CODEX_SUBTYPE_ELEMENTAL",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 21401,
+    "descTextMapHash": 3814738260,
+    "LICBOMOOAFI": [
+      4219921505
+    ],
+    "LJMGOHDNFMO": [
+      244450591
+    ],
+    "id": 22140101,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Lloigor_Sub",
+    "OHCCAFLBIAJ": 867317767,
+    "pushTipsCodexId": 60500147,
+    "showOnlyUnlocked": false,
+    "sortOrder": 2089,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 21501,
+    "descTextMapHash": 1403156556,
+    "LICBOMOOAFI": [
+      1820744937
+    ],
+    "LJMGOHDNFMO": [
+      3062402543
+    ],
+    "id": 22150101,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Lloigor_Primo_01",
+    "OHCCAFLBIAJ": 3237121535,
+    "pushTipsCodexId": 60500148,
+    "showOnlyUnlocked": false,
+    "sortOrder": 2090,
+    "subType": "CODEX_SUBTYPE_ABYSS",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 30901,
+    "descTextMapHash": 3011786076,
+    "LICBOMOOAFI": [
+      3981650385
+    ],
+    "LJMGOHDNFMO": [
+      3059335351
+    ],
+    "id": 23090101,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Fatuimecha_AMP",
+    "OHCCAFLBIAJ": 773043543,
+    "pushTipsCodexId": 60500146,
+    "showOnlyUnlocked": false,
+    "sortOrder": 3052,
+    "subType": "CODEX_SUBTYPE_FATUI",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 41101,
+    "descTextMapHash": 340706556,
+    "LICBOMOOAFI": [
+      383221057
+    ],
+    "LJMGOHDNFMO": [
+      4262626639
+    ],
+    "id": 24110101,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Watcher_Normal",
+    "OHCCAFLBIAJ": 1113709927,
+    "pushTipsCodexId": 60500151,
+    "showOnlyUnlocked": false,
+    "sortOrder": 4311,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 41111,
+    "descTextMapHash": 2010640796,
+    "LICBOMOOAFI": [
+      1149848889
+    ],
+    "LJMGOHDNFMO": [
+      2930868295
+    ],
+    "id": 24111101,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Watcher_Primo_01",
+    "OHCCAFLBIAJ": 3385330071,
+    "pushTipsCodexId": 60500152,
+    "showOnlyUnlocked": false,
+    "sortOrder": 4321,
+    "subType": "CODEX_SUBTYPE_AUTOMATRON",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 63004,
+    "descTextMapHash": 3008793676,
+    "LICBOMOOAFI": [
+      377466097
+    ],
+    "LJMGOHDNFMO": [
+      721807855
+    ],
+    "id": 26300401,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Magbeast_Steppenwolf",
+    "OHCCAFLBIAJ": 3307351095,
+    "pushTipsCodexId": 60500142,
+    "showOnlyUnlocked": false,
+    "sortOrder": 6360,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 63021,
+    "descTextMapHash": 3866570212,
+    "LICBOMOOAFI": [
+      1262463249
+    ],
+    "LJMGOHDNFMO": [
+      1107665047
+    ],
+    "id": 26302101,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Magbeast_Gecko",
+    "OHCCAFLBIAJ": 2305305063,
+    "pushTipsCodexId": 60500149,
+    "showOnlyUnlocked": false,
+    "sortOrder": 6362,
+    "subType": "CODEX_SUBTYPE_BEAST",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 91302,
+    "descTextMapHash": 4216609980,
+    "LICBOMOOAFI": [
+      454482113
+    ],
+    "LJMGOHDNFMO": [
+      806321239
+    ],
+    "id": 29130201,
+    "MPNCFOBMIDN": 5549139671731296905,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_Dotorre_Moon_01",
+    "OHCCAFLBIAJ": 408967263,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 7013,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_KILL",
+    "describeId": 91501,
+    "descTextMapHash": 1577878980,
+    "LICBOMOOAFI": [
+      3997691265
+    ],
+    "LJMGOHDNFMO": [
+      899229727
+    ],
+    "id": 29150101,
+    "MPNCFOBMIDN": 10190963131030048413,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Monster_DrData_01",
+    "OHCCAFLBIAJ": 4212779335,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 7014,
+    "subType": "CODEX_SUBTYPE_BOSS",
+    "type": "CODEX_MONSTER"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "describeId": 28030108,
+    "descTextMapHash": 3968107692,
+    "LICBOMOOAFI": [
+      262437969
+    ],
+    "LJMGOHDNFMO": [
+      2798062743
+    ],
+    "id": 28030108,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Animal_Crane_01_03",
+    "OHCCAFLBIAJ": 1895920119,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 10022,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "describeId": 28030723,
+    "descTextMapHash": 828501476,
+    "LICBOMOOAFI": [
+      3687008713
+    ],
+    "LJMGOHDNFMO": [
+      2811274343
+    ],
+    "id": 28030723,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Animal_Seagull_02",
+    "OHCCAFLBIAJ": 1937949015,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 10032,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "describeId": 28030710,
+    "descTextMapHash": 3347922092,
+    "LICBOMOOAFI": [
+      3266042225
+    ],
+    "LJMGOHDNFMO": [
+      1645993175
+    ],
+    "id": 28030710,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Animal_Bird_Small_Falcon_01",
+    "OHCCAFLBIAJ": 386806823,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 10033,
+    "subType": "CODEX_SUBTYPE_AVIARY",
+    "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "describeId": 28021502,
+    "descTextMapHash": 138754492,
+    "LICBOMOOAFI": [
+      4175551745
+    ],
+    "LJMGOHDNFMO": [
+      122755495
+    ],
+    "id": 28021502,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Animal_Reindeer_02",
+    "OHCCAFLBIAJ": 349083823,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 11060,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_NONE",
+    "describeId": 28023001,
+    "descTextMapHash": 3862540428,
+    "LICBOMOOAFI": [
+      3842376841
+    ],
+    "LJMGOHDNFMO": [
+      1726046663
+    ],
+    "id": 28023001,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": true,
+    "modelPath": "Codex_Animal_Wolf_01",
+    "OHCCAFLBIAJ": 5155959,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 11062,
+    "subType": "CODEX_SUBTYPE_ANIMAL",
+    "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_FISH",
+    "describeId": 28040403,
+    "descTextMapHash": 3087107148,
+    "LICBOMOOAFI": [
+      2973354425
+    ],
+    "LJMGOHDNFMO": [
+      955806055
+    ],
+    "id": 28040403,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Animal_Fishable_Maritime_Cheirolepis_03",
+    "OHCCAFLBIAJ": 801670335,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 12214,
+    "subType": "CODEX_SUBTYPE_FISH",
+    "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "describeId": 28051101,
+    "descTextMapHash": 2701342764,
+    "LICBOMOOAFI": [
+      1340782001
+    ],
+    "LJMGOHDNFMO": [
+      2154641591
+    ],
+    "id": 28051101,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": false,
+    "modelPath": "Codex_Animal_Wisp_PlumeMoth_01",
+    "OHCCAFLBIAJ": 2290602311,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 13009,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "type": "CODEX_ANIMAL"
+  },
+  {
+    "ABOAGOHLBID": [
+      0
+    ],
+    "countType": "CODEX_COUNT_TYPE_CAPTURE",
+    "describeId": 28010209,
+    "descTextMapHash": 2760042700,
+    "LICBOMOOAFI": [
+      505411785
+    ],
+    "LJMGOHDNFMO": [
+      3382663439
+    ],
+    "id": 28010209,
+    "MPNCFOBMIDN": 0,
+    "isDisuse": false,
+    "isSeenActive": true,
+    "modelPath": "Codex_Animal_Lizard_03_01",
+    "OHCCAFLBIAJ": 1704392743,
+    "pushTipsCodexId": 0,
+    "showOnlyUnlocked": false,
+    "sortOrder": 13028,
+    "subType": "CODEX_SUBTYPE_CRITTER",
+    "type": "CODEX_ANIMAL"
   }
 ]

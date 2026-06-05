@@ -3347,5 +3347,1285 @@
         }
       ]
     }
+  },
+  {
+    "Default": {
+      "abilityName": "Avatar_Razor_HexenzirkelSkill",
+      "onAdded": [
+        {
+          "$type": "SetGlobalValue",
+          "value": {
+            "__unk_Q2668214730": false
+          },
+          "minValue": {
+            "__unk_Q2668214730": false
+          },
+          "maxValue": {
+            "__unk_Q2668214730": false
+          },
+          "key": "_ABILITY_Hexenzirkel_Enhanced",
+          "useLimitRange": false,
+          "__unk_Q2273802443": false,
+          "predicates": [],
+          "otherTargets": {
+            "entityTypePriority": [],
+            "topLimit": 0,
+            "sortType": "Default"
+          },
+          "doOffStage": true,
+          "token": {
+            "tokenType": "NEVER_TOKEN",
+            "weight": 1
+          },
+          "canBeHandledOnRecover": false,
+          "muteRemoteAction": false,
+          "doAfterDie": true,
+          "target": "Self",
+          "__unk_Q4125547569": -1
+        },
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Razor_Hexenzirkel_Handler",
+          "__unk_Q2273802443": false,
+          "predicates": [],
+          "otherTargets": {
+            "entityTypePriority": [],
+            "topLimit": 0,
+            "sortType": "Default"
+          },
+          "doOffStage": true,
+          "token": {
+            "tokenType": "NEVER_TOKEN",
+            "weight": 1
+          },
+          "canBeHandledOnRecover": false,
+          "muteRemoteAction": false,
+          "doAfterDie": true,
+          "target": "Self",
+          "__unk_Q4125547569": -1
+        },
+        {
+          "$type": "AttachModifier",
+          "modifierName": "Razor_Hexenzirkel_C6_Handler",
+          "__unk_Q2273802443": false,
+          "predicates": [],
+          "otherTargets": {
+            "entityTypePriority": [],
+            "topLimit": 0,
+            "sortType": "Default"
+          },
+          "doOffStage": true,
+          "token": {
+            "tokenType": "NEVER_TOKEN",
+            "weight": 1
+          },
+          "canBeHandledOnRecover": false,
+          "muteRemoteAction": false,
+          "doAfterDie": true,
+          "target": "Self",
+          "__unk_Q4125547569": -1
+        }
+      ],
+      "__unk_Q2830497089": [],
+      "onRemoved": [],
+      "abilitySpecials": {
+        "Wolf_DamageUp": 0,
+        "MarkOverLoad_Buff_CD": 0,
+        "ReviveEnergy": 0,
+        "ThunderfallDamage": 0,
+        "C6_Buff_Duration": 0,
+        "C6_CritUp": 0,
+        "C6_CritDamageUp": 0
+      },
+      "onAvatarIn": [],
+      "onKill": [],
+      "onAvatarOut": [],
+      "onFieldEnter": [],
+      "defaultModifier": {
+        "onBeingHit": [],
+        "modifierMixins": [],
+        "onAvatarOut": [],
+        "onThinkInterval": [],
+        "duration": {
+          "__unk_Q2668214730": false
+        },
+        "onAttackLanded": [],
+        "onBeingHealed": [],
+        "stackingOption": {
+          "abilitySpecialName": "",
+          "maxModifierNumForMultipleType": {
+            "__unk_Q2668214730": false
+          },
+          "enableMixedUnique": false
+        },
+        "onAvatarIn": [],
+        "onHeal": [],
+        "onAdded": [],
+        "onRemoved": [],
+        "properties": {},
+        "onReconnect": [],
+        "onHittingOther": [],
+        "modifierName": "",
+        "thinkInterval": {
+          "__unk_Q2668214730": false
+        },
+        "onKill": [],
+        "elementDurability": {
+          "__unk_Q2668214730": true
+        },
+        "buffID": 0,
+        "overrideWeaponElement": false,
+        "state": "None",
+        "elementType": "None",
+        "timeScale": "Owner",
+        "fireEventWhenApply": false,
+        "stacking": "Refresh",
+        "isDurabilityGlobal": false,
+        "isElementDurabilityMutable": true,
+        "isLimitedProperties": false,
+        "purgeIncrement": 0,
+        "useDummyAbility": false,
+        "onThinkIntervalIsFixedUpdate": false,
+        "isUnique": false,
+        "trimThinkInterval": false
+      },
+      "onAbilityStart": [],
+      "modifiers": {
+        "Razor_Hexenzirkel_Handler": {
+          "onBeingHit": [],
+          "modifierMixins": [
+            {
+              "$type": "ModifyDamageMixin",
+              "elementDurability": {
+                "__unk_Q2668214730": false
+              },
+              "defenseIgnoreRatio": {
+                "__unk_Q2668214730": false
+              },
+              "damagePercentageRatio": {
+                "__unk_Q2668214730": false
+              },
+              "animEventNames": [],
+              "attackTags": [
+                "Razor_WolfDamage"
+              ],
+              "bonusCriticalHurt": {
+                "__unk_Q2668214730": false
+              },
+              "damageExtra": {
+                "__unk_Q2668214730": false
+              },
+              "predicates": [],
+              "bonusCritical": {
+                "__unk_Q2668214730": false
+              },
+              "damagePercentage": {
+                "__unk_Q2668214730": false
+              },
+              "ignoreEventInfo": false,
+              "trueDamage": false,
+              "attackType": "None",
+              "__unk_Q3695777311": false,
+              "isUnique": false,
+              "__unk_Q4125547569": -1
+            }
+          ],
+          "onAvatarOut": [],
+          "onThinkInterval": [],
+          "duration": {
+            "__unk_Q2668214730": false
+          },
+          "onAttackLanded": [],
+          "onBeingHealed": [],
+          "stackingOption": {
+            "abilitySpecialName": "",
+            "maxModifierNumForMultipleType": {
+              "__unk_Q2668214730": false
+            },
+            "enableMixedUnique": false
+          },
+          "onAvatarIn": [],
+          "onHeal": [],
+          "onAdded": [],
+          "onRemoved": [],
+          "properties": {},
+          "onReconnect": [],
+          "onHittingOther": [],
+          "modifierName": "",
+          "thinkInterval": {
+            "__unk_Q2668214730": false
+          },
+          "onKill": [],
+          "elementDurability": {
+            "__unk_Q2668214730": false
+          },
+          "buffID": 0,
+          "overrideWeaponElement": false,
+          "state": "None",
+          "elementType": "None",
+          "timeScale": "Owner",
+          "fireEventWhenApply": false,
+          "stacking": "Refresh",
+          "isDurabilityGlobal": false,
+          "isElementDurabilityMutable": true,
+          "isLimitedProperties": false,
+          "purgeIncrement": 0,
+          "useDummyAbility": false,
+          "onThinkIntervalIsFixedUpdate": false,
+          "isUnique": false,
+          "trimThinkInterval": false
+        },
+        "Razor_Hexenzirkel_TwoHex_Handler": {
+          "onBeingHit": [],
+          "modifierMixins": [],
+          "onAvatarOut": [],
+          "onThinkInterval": [],
+          "duration": {
+            "__unk_Q2668214730": false
+          },
+          "onAttackLanded": [],
+          "onBeingHealed": [],
+          "stackingOption": {
+            "abilitySpecialName": "",
+            "maxModifierNumForMultipleType": {
+              "__unk_Q2668214730": false
+            },
+            "enableMixedUnique": false
+          },
+          "onAvatarIn": [],
+          "onHeal": [],
+          "onAdded": [],
+          "onRemoved": [],
+          "properties": {},
+          "onReconnect": [],
+          "onHittingOther": [],
+          "modifierName": "",
+          "thinkInterval": {
+            "__unk_Q2668214730": false
+          },
+          "onKill": [],
+          "elementDurability": {
+            "__unk_Q2668214730": false
+          },
+          "buffID": 0,
+          "overrideWeaponElement": false,
+          "state": "None",
+          "elementType": "None",
+          "timeScale": "Owner",
+          "fireEventWhenApply": false,
+          "stacking": "Refresh",
+          "isDurabilityGlobal": false,
+          "isElementDurabilityMutable": true,
+          "isLimitedProperties": false,
+          "purgeIncrement": 0,
+          "useDummyAbility": false,
+          "onThinkIntervalIsFixedUpdate": false,
+          "isUnique": false,
+          "trimThinkInterval": false
+        },
+        "Razor_Hexenzirkel_MarkOverLoad_Buff": {
+          "onBeingHit": [],
+          "modifierMixins": [],
+          "onAvatarOut": [],
+          "onThinkInterval": [],
+          "duration": {
+            "__unk_Q2668214730": false
+          },
+          "onAttackLanded": [],
+          "onBeingHealed": [],
+          "stackingOption": {
+            "abilitySpecialName": "",
+            "maxModifierNumForMultipleType": {
+              "__unk_Q2668214730": false
+            },
+            "enableMixedUnique": false
+          },
+          "onAvatarIn": [],
+          "onHeal": [],
+          "onAdded": [
+            {
+              "$type": "ApplyModifier",
+              "modifierName": "Razor_Hexenzirkel_Thunderfall",
+              "__unk_Q2273802443": false,
+              "predicates": [],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": true,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            },
+            {
+              "$type": "ReviveElemEnergy",
+              "ratio": {
+                "__unk_Q2668214730": false
+              },
+              "value": {
+                "__unk_Q2668214730": false
+              },
+              "__unk_Q2273802443": false,
+              "predicates": [],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": true,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            }
+          ],
+          "onRemoved": [],
+          "properties": {},
+          "onReconnect": [],
+          "onHittingOther": [],
+          "modifierName": "",
+          "thinkInterval": {
+            "__unk_Q2668214730": false
+          },
+          "onKill": [],
+          "elementDurability": {
+            "__unk_Q2668214730": false
+          },
+          "buffID": 0,
+          "overrideWeaponElement": false,
+          "state": "None",
+          "elementType": "None",
+          "timeScale": "Owner",
+          "fireEventWhenApply": false,
+          "stacking": "Unique",
+          "isDurabilityGlobal": false,
+          "isElementDurabilityMutable": true,
+          "isLimitedProperties": false,
+          "purgeIncrement": 0,
+          "useDummyAbility": false,
+          "onThinkIntervalIsFixedUpdate": false,
+          "isUnique": false,
+          "trimThinkInterval": false
+        },
+        "Razor_Hexenzirkel_Thunderfall": {
+          "onBeingHit": [],
+          "modifierMixins": [],
+          "onAvatarOut": [],
+          "onThinkInterval": [
+            {
+              "$type": "Predicated",
+              "targetPredicates": [
+                {
+                  "$type": "ByTargetGlobalValue",
+                  "maxValue": {
+                    "__unk_Q2668214730": false
+                  },
+                  "key": "_ABILITY_Razor_Thunderfall_HasTarget",
+                  "value": {
+                    "__unk_Q2668214730": false
+                  },
+                  "compareType": "Equal",
+                  "forceByCaster": false,
+                  "target": "Self"
+                }
+              ],
+              "successActions": [
+                {
+                  "$type": "SetGlobalPos",
+                  "key": "_ABILITY_Razor_Thunderfall_TargetPos",
+                  "born": {
+                    "$type": "ConfigBornByTarget",
+                    "predicates": [],
+                    "offset": {
+                      "x": {
+                        "__unk_Q2668214730": false
+                      },
+                      "z": {
+                        "__unk_Q2668214730": false
+                      },
+                      "y": {
+                        "__unk_Q2668214730": false
+                      }
+                    },
+                    "direction": {
+                      "angleOffset": {
+                        "x": {
+                          "__unk_Q2668214730": false
+                        },
+                        "z": {
+                          "__unk_Q2668214730": false
+                        },
+                        "y": {
+                          "__unk_Q2668214730": false
+                        }
+                      },
+                      "maxAngle": 180,
+                      "randomAngleHor": 0,
+                      "maxAngleType": "Free"
+                    },
+                    "bornRandom": {},
+                    "onGround": false,
+                    "useRotation": true,
+                    "onGroundRaycastUpDist": 2
+                  },
+                  "dstTarget": "Self",
+                  "setTarget": false,
+                  "__unk_Q2273802443": false,
+                  "predicates": [],
+                  "otherTargets": {
+                    "entityTypePriority": [],
+                    "topLimit": 0,
+                    "sortType": "Default"
+                  },
+                  "doOffStage": false,
+                  "token": {
+                    "tokenType": "NEVER_TOKEN",
+                    "weight": 1
+                  },
+                  "canBeHandledOnRecover": false,
+                  "muteRemoteAction": false,
+                  "doAfterDie": true,
+                  "target": "TempTarget",
+                  "__unk_Q4125547569": -1
+                }
+              ],
+              "failActions": [
+                {
+                  "$type": "Predicated",
+                  "targetPredicates": [
+                    {
+                      "$type": "ByEntityTypes",
+                      "entityTypes": [
+                        "Monster"
+                      ],
+                      "reject": false,
+                      "target": "Target"
+                    }
+                  ],
+                  "successActions": [
+                    {
+                      "$type": "SetGlobalPos",
+                      "key": "_ABILITY_Razor_Thunderfall_TargetPos",
+                      "born": {
+                        "$type": "ConfigBornByTarget",
+                        "predicates": [],
+                        "offset": {
+                          "x": {
+                            "__unk_Q2668214730": false
+                          },
+                          "z": {
+                            "__unk_Q2668214730": false
+                          },
+                          "y": {
+                            "__unk_Q2668214730": false
+                          }
+                        },
+                        "direction": {
+                          "angleOffset": {
+                            "x": {
+                              "__unk_Q2668214730": false
+                            },
+                            "z": {
+                              "__unk_Q2668214730": false
+                            },
+                            "y": {
+                              "__unk_Q2668214730": false
+                            }
+                          },
+                          "maxAngle": 180,
+                          "randomAngleHor": 0,
+                          "maxAngleType": "Free"
+                        },
+                        "bornRandom": {},
+                        "onGround": false,
+                        "useRotation": true,
+                        "onGroundRaycastUpDist": 2
+                      },
+                      "dstTarget": "Self",
+                      "setTarget": false,
+                      "__unk_Q2273802443": false,
+                      "predicates": [],
+                      "otherTargets": {
+                        "entityTypePriority": [],
+                        "topLimit": 0,
+                        "sortType": "Default"
+                      },
+                      "doOffStage": false,
+                      "token": {
+                        "tokenType": "NEVER_TOKEN",
+                        "weight": 1
+                      },
+                      "canBeHandledOnRecover": false,
+                      "muteRemoteAction": false,
+                      "doAfterDie": true,
+                      "target": "Other",
+                      "__unk_Q4125547569": -1
+                    },
+                    {
+                      "$type": "SetGlobalValue",
+                      "value": {
+                        "__unk_Q2668214730": false
+                      },
+                      "minValue": {
+                        "__unk_Q2668214730": false
+                      },
+                      "maxValue": {
+                        "__unk_Q2668214730": false
+                      },
+                      "key": "_ABILITY_Razor_Thunderfall_HasTarget",
+                      "useLimitRange": false,
+                      "__unk_Q2273802443": false,
+                      "predicates": [],
+                      "otherTargets": {
+                        "entityTypePriority": [],
+                        "topLimit": 0,
+                        "sortType": "Default"
+                      },
+                      "doOffStage": true,
+                      "token": {
+                        "tokenType": "NEVER_TOKEN",
+                        "weight": 1
+                      },
+                      "canBeHandledOnRecover": false,
+                      "muteRemoteAction": false,
+                      "doAfterDie": true,
+                      "target": "Self",
+                      "__unk_Q4125547569": -1
+                    }
+                  ],
+                  "failActions": [],
+                  "__unk_Q2273802443": false,
+                  "predicates": [
+                    {
+                      "$type": "ByEntityTypes",
+                      "entityTypes": [
+                        "Monster"
+                      ],
+                      "reject": false,
+                      "target": "Target"
+                    },
+                    {
+                      "$type": "ByTargetGlobalValue",
+                      "maxValue": {
+                        "__unk_Q2668214730": false
+                      },
+                      "key": "_ANIMAL_ENTITY_TYPE",
+                      "value": {
+                        "__unk_Q2668214730": false
+                      },
+                      "compareType": "NoneOrEqual",
+                      "forceByCaster": false,
+                      "target": "Target"
+                    }
+                  ],
+                  "otherTargets": {
+                    "$type": "SelectTargetsByShape",
+                    "offset": {
+                      "x": {
+                        "__unk_Q2668214730": false
+                      },
+                      "z": {
+                        "__unk_Q2668214730": false
+                      },
+                      "y": {
+                        "__unk_Q2668214730": false
+                      }
+                    },
+                    "sizeRatio": {
+                      "__unk_Q2668214730": false
+                    },
+                    "shapeName": "CircleR15H10",
+                    "campBasedOn": "Self",
+                    "campTargetType": "Enemy",
+                    "entityTypePriority": [
+                      "Monster"
+                    ],
+                    "topLimit": 1,
+                    "sortType": "Nearest"
+                  },
+                  "doOffStage": false,
+                  "token": {
+                    "tokenType": "NEVER_TOKEN",
+                    "weight": 1
+                  },
+                  "canBeHandledOnRecover": false,
+                  "muteRemoteAction": false,
+                  "doAfterDie": true,
+                  "target": "Self",
+                  "__unk_Q4125547569": -1
+                }
+              ],
+              "__unk_Q2273802443": false,
+              "predicates": [],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": false,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            },
+            {
+              "$type": "SetGlobalPos",
+              "key": "_ABILITY_Razor_Thunderfall_TargetPos",
+              "born": {
+                "$type": "ConfigBornBySelf",
+                "predicates": [],
+                "offset": {
+                  "x": {
+                    "__unk_Q2668214730": false
+                  },
+                  "z": {
+                    "__unk_Q2668214730": false
+                  },
+                  "y": {
+                    "__unk_Q2668214730": false
+                  }
+                },
+                "direction": {
+                  "angleOffset": {
+                    "x": {
+                      "__unk_Q2668214730": false
+                    },
+                    "z": {
+                      "__unk_Q2668214730": false
+                    },
+                    "y": {
+                      "__unk_Q2668214730": false
+                    }
+                  },
+                  "maxAngle": 180,
+                  "randomAngleHor": 0,
+                  "maxAngleType": "Free"
+                },
+                "bornRandom": {},
+                "onGround": true,
+                "useRotation": true,
+                "onGroundRaycastUpDist": 2
+              },
+              "dstTarget": "Self",
+              "setTarget": true,
+              "__unk_Q2273802443": false,
+              "predicates": [
+                {
+                  "$type": "ByTargetGlobalValue",
+                  "maxValue": {
+                    "__unk_Q2668214730": false
+                  },
+                  "key": "_ABILITY_Razor_Thunderfall_HasTarget",
+                  "value": {
+                    "__unk_Q2668214730": false
+                  },
+                  "compareType": "Equal",
+                  "forceByCaster": false,
+                  "target": "Self"
+                }
+              ],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": false,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            },
+            {
+              "$type": "FireEffect",
+              "born": {
+                "$type": "ConfigBornByGlobalValue",
+                "directionKey": "",
+                "positionKey": "_ABILITY_Razor_Thunderfall_TargetPos",
+                "predicates": [],
+                "offset": {
+                  "x": {
+                    "__unk_Q2668214730": false
+                  },
+                  "z": {
+                    "__unk_Q2668214730": false
+                  },
+                  "y": {
+                    "__unk_Q2668214730": false
+                  }
+                },
+                "direction": {
+                  "angleOffset": {
+                    "x": {
+                      "__unk_Q2668214730": false
+                    },
+                    "z": {
+                      "__unk_Q2668214730": false
+                    },
+                    "y": {
+                      "__unk_Q2668214730": false
+                    }
+                  },
+                  "maxAngle": 180,
+                  "randomAngleHor": 0,
+                  "maxAngleType": "Free"
+                },
+                "bornRandom": {},
+                "onGround": false,
+                "useRotation": true,
+                "onGroundRaycastUpDist": 2
+              },
+              "scale": {
+                "__unk_Q2668214730": false
+              },
+              "effectTempleteID": {
+                "__unk_Q2668214730": false
+              },
+              "effectPattern": {
+                "__exp_FixedValue": "Eff_Avatar_Boy_Claymore_Razor_Enhanced_Thunderfall",
+                "__exp_IsDynamic": false,
+                "__exp_ValueType": "Fixed"
+              },
+              "useY": false,
+              "__unk_Q2273802443": false,
+              "predicates": [],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": false,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            },
+            {
+              "$type": "TriggerAttackEvent",
+              "attackEvent": {
+                "attackInfo": {
+                  "attenuationGroup": "default",
+                  "attackProperty": {
+                    "damageExtra": {
+                      "__unk_Q2668214730": false
+                    },
+                    "bonusCriticalHurt": {
+                      "__unk_Q2668214730": false
+                    },
+                    "__exp_arkhe": {
+                      "__unk_Q2668214730": false
+                    },
+                    "damagePercentage": {
+                      "__unk_Q2668214730": false
+                    },
+                    "elementDurability": {
+                      "__unk_Q2668214730": false
+                    },
+                    "damagePercentageRatio": {
+                      "__unk_Q2668214730": false
+                    },
+                    "bonusCritical": {
+                      "__unk_Q2668214730": false
+                    },
+                    "elementType": "Electric",
+                    "ignoreAttackerProperty": false,
+                    "trueDamage": false,
+                    "overrideByWeapon": false,
+                    "attackType": "Default",
+                    "strikeType": "Default",
+                    "elementRank": 1,
+                    "enHeadBreak": 0,
+                    "enBreak": 100
+                  },
+                  "cameraShake": {
+                    "extension": {
+                      "baseCycle": 0.05,
+                      "rangeAttenuation": 0.08,
+                      "cycleDamping": 0.12
+                    },
+                    "shakeTime": 0.15,
+                    "shakeDistance": 30,
+                    "shakeType": "CustomVector",
+                    "shakeRange": 0.2
+                  },
+                  "hitHeadPattern": {
+                    "overrideHitImpulse": {
+                      "hitImpulseY": {
+                        "__unk_Q2668214730": false
+                      },
+                      "hitImpulseX": {
+                        "__unk_Q2668214730": false
+                      },
+                      "hitLevel": "Mute"
+                    },
+                    "onHitEffectName": "default",
+                    "hitImpulseX": {
+                      "__unk_Q2668214730": false
+                    },
+                    "__unk_Q3893899620": "",
+                    "hitImpulseType": "",
+                    "hitImpulseY": {
+                      "__unk_Q2668214730": false
+                    },
+                    "retreatType": "ByAttacker",
+                    "hitHaltTime": 0,
+                    "hitLevel": "Mute",
+                    "hitHaltTimeScale": 0,
+                    "canBeDefenceHalt": false,
+                    "recurring": false
+                  },
+                  "attenuationTag": "",
+                  "attackTag": "",
+                  "hitPattern": {
+                    "overrideHitImpulse": {
+                      "hitImpulseY": {
+                        "__unk_Q2668214730": false
+                      },
+                      "hitImpulseX": {
+                        "__unk_Q2668214730": false
+                      },
+                      "hitLevel": "Mute"
+                    },
+                    "onHitEffectName": "default",
+                    "hitImpulseX": {
+                      "__unk_Q2668214730": false
+                    },
+                    "__unk_Q3893899620": "",
+                    "hitImpulseType": "LV3",
+                    "hitImpulseY": {
+                      "__unk_Q2668214730": false
+                    },
+                    "retreatType": "ByAttacker",
+                    "hitHaltTime": 0,
+                    "hitLevel": "Mute",
+                    "hitHaltTimeScale": 0.05,
+                    "canBeDefenceHalt": false,
+                    "recurring": false
+                  },
+                  "canBeModifiedBy": "OriginOwner",
+                  "canHitHead": false,
+                  "forceCameraShake": false,
+                  "__unk_Q3296203363": "None"
+                },
+                "attackPattern": {
+                  "$type": "ConfigAttackCircle",
+                  "innerRadius": {
+                    "__unk_Q2668214730": false
+                  },
+                  "radius": {
+                    "__unk_Q2668214730": false
+                  },
+                  "fanAngle": 360,
+                  "detectDirection": "CenterToSide",
+                  "height": 3,
+                  "useCustomShape": false,
+                  "hitScene": {
+                    "surfaceEffect": {},
+                    "defaultEffect": ""
+                  },
+                  "born": {
+                    "$type": "ConfigBornByGlobalValue",
+                    "directionKey": "",
+                    "positionKey": "_ABILITY_Razor_Thunderfall_TargetPos",
+                    "predicates": [],
+                    "offset": {
+                      "x": {
+                        "__unk_Q2668214730": false
+                      },
+                      "z": {
+                        "__unk_Q2668214730": false
+                      },
+                      "y": {
+                        "__unk_Q2668214730": false
+                      }
+                    },
+                    "direction": {
+                      "angleOffset": {
+                        "x": {
+                          "__unk_Q2668214730": false
+                        },
+                        "z": {
+                          "__unk_Q2668214730": false
+                        },
+                        "y": {
+                          "__unk_Q2668214730": false
+                        }
+                      },
+                      "maxAngle": 180,
+                      "randomAngleHor": 0,
+                      "maxAngleType": "Free"
+                    },
+                    "bornRandom": {},
+                    "onGround": false,
+                    "useRotation": true,
+                    "onGroundRaycastUpDist": 2
+                  },
+                  "triggerType": "TriggerNoRepeat",
+                  "triggerCD": 0,
+                  "massiveAttackRatio": 1,
+                  "filterByFrame": false,
+                  "ignoreMassive": false,
+                  "checkHitLayerType": "OnlyHitBox"
+                }
+              },
+              "entityTypes": [],
+              "targetType": "Enemy",
+              "__unk_Q2273802443": false,
+              "predicates": [],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": false,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            },
+            {
+              "$type": "RemoveModifier",
+              "modifierName": "Razor_Hexenzirkel_Thunderfall",
+              "__unk_Q2273802443": false,
+              "predicates": [],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": false,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            }
+          ],
+          "duration": {
+            "__unk_Q2668214730": false
+          },
+          "onAttackLanded": [],
+          "onBeingHealed": [],
+          "stackingOption": {
+            "abilitySpecialName": "",
+            "maxModifierNumForMultipleType": {
+              "__unk_Q2668214730": false
+            },
+            "enableMixedUnique": false
+          },
+          "onAvatarIn": [],
+          "onHeal": [],
+          "onAdded": [
+            {
+              "$type": "Predicated",
+              "targetPredicates": [
+                {
+                  "$type": "ByHasAttackTarget",
+                  "target": "Target"
+                }
+              ],
+              "successActions": [
+                {
+                  "$type": "SetTargetToTargetKey",
+                  "targetKey": "_ABILITY_Razor_Thunderfall_Target",
+                  "__unk_Q2273802443": false,
+                  "predicates": [],
+                  "otherTargets": {
+                    "entityTypePriority": [],
+                    "topLimit": 0,
+                    "sortType": "Default"
+                  },
+                  "doOffStage": false,
+                  "token": {
+                    "tokenType": "NEVER_TOKEN",
+                    "weight": 1
+                  },
+                  "canBeHandledOnRecover": false,
+                  "muteRemoteAction": false,
+                  "doAfterDie": true,
+                  "target": "SelfAttackTarget",
+                  "__unk_Q4125547569": -1
+                },
+                {
+                  "$type": "SetGlobalValue",
+                  "value": {
+                    "__unk_Q2668214730": false
+                  },
+                  "minValue": {
+                    "__unk_Q2668214730": false
+                  },
+                  "maxValue": {
+                    "__unk_Q2668214730": false
+                  },
+                  "key": "_ABILITY_Razor_Thunderfall_HasTarget",
+                  "useLimitRange": false,
+                  "__unk_Q2273802443": false,
+                  "predicates": [],
+                  "otherTargets": {
+                    "entityTypePriority": [],
+                    "topLimit": 0,
+                    "sortType": "Default"
+                  },
+                  "doOffStage": true,
+                  "token": {
+                    "tokenType": "NEVER_TOKEN",
+                    "weight": 1
+                  },
+                  "canBeHandledOnRecover": false,
+                  "muteRemoteAction": false,
+                  "doAfterDie": true,
+                  "target": "Self",
+                  "__unk_Q4125547569": -1
+                }
+              ],
+              "failActions": [
+                {
+                  "$type": "SetGlobalValue",
+                  "value": {
+                    "__unk_Q2668214730": false
+                  },
+                  "minValue": {
+                    "__unk_Q2668214730": false
+                  },
+                  "maxValue": {
+                    "__unk_Q2668214730": false
+                  },
+                  "key": "_ABILITY_Razor_Thunderfall_HasTarget",
+                  "useLimitRange": false,
+                  "__unk_Q2273802443": false,
+                  "predicates": [],
+                  "otherTargets": {
+                    "entityTypePriority": [],
+                    "topLimit": 0,
+                    "sortType": "Default"
+                  },
+                  "doOffStage": true,
+                  "token": {
+                    "tokenType": "NEVER_TOKEN",
+                    "weight": 1
+                  },
+                  "canBeHandledOnRecover": false,
+                  "muteRemoteAction": false,
+                  "doAfterDie": true,
+                  "target": "Self",
+                  "__unk_Q4125547569": -1
+                }
+              ],
+              "__unk_Q2273802443": false,
+              "predicates": [],
+              "otherTargets": {
+                "entityTypePriority": [],
+                "topLimit": 0,
+                "sortType": "Default"
+              },
+              "doOffStage": false,
+              "token": {
+                "tokenType": "NEVER_TOKEN",
+                "weight": 1
+              },
+              "canBeHandledOnRecover": false,
+              "muteRemoteAction": false,
+              "doAfterDie": true,
+              "target": "Self",
+              "__unk_Q4125547569": -1
+            }
+          ],
+          "onRemoved": [],
+          "properties": {},
+          "onReconnect": [],
+          "onHittingOther": [],
+          "modifierName": "",
+          "thinkInterval": {
+            "__unk_Q2668214730": false
+          },
+          "onKill": [],
+          "elementDurability": {
+            "__unk_Q2668214730": false
+          },
+          "buffID": 0,
+          "overrideWeaponElement": false,
+          "state": "None",
+          "elementType": "None",
+          "timeScale": "Owner",
+          "fireEventWhenApply": false,
+          "stacking": "Refresh",
+          "isDurabilityGlobal": false,
+          "isElementDurabilityMutable": true,
+          "isLimitedProperties": false,
+          "purgeIncrement": 0,
+          "useDummyAbility": false,
+          "onThinkIntervalIsFixedUpdate": false,
+          "isUnique": false,
+          "trimThinkInterval": false
+        },
+        "Razor_Hexenzirkel_C6_Handler": {
+          "onBeingHit": [],
+          "modifierMixins": [],
+          "onAvatarOut": [],
+          "onThinkInterval": [],
+          "duration": {
+            "__unk_Q2668214730": false
+          },
+          "onAttackLanded": [],
+          "onBeingHealed": [],
+          "stackingOption": {
+            "abilitySpecialName": "",
+            "maxModifierNumForMultipleType": {
+              "__unk_Q2668214730": false
+            },
+            "enableMixedUnique": false
+          },
+          "onAvatarIn": [],
+          "onHeal": [],
+          "onAdded": [],
+          "onRemoved": [],
+          "properties": {},
+          "onReconnect": [],
+          "onHittingOther": [],
+          "modifierName": "",
+          "thinkInterval": {
+            "__unk_Q2668214730": false
+          },
+          "onKill": [],
+          "elementDurability": {
+            "__unk_Q2668214730": false
+          },
+          "buffID": 0,
+          "overrideWeaponElement": false,
+          "state": "None",
+          "elementType": "None",
+          "timeScale": "Owner",
+          "fireEventWhenApply": false,
+          "stacking": "Refresh",
+          "isDurabilityGlobal": false,
+          "isElementDurabilityMutable": true,
+          "isLimitedProperties": false,
+          "purgeIncrement": 0,
+          "useDummyAbility": false,
+          "onThinkIntervalIsFixedUpdate": false,
+          "isUnique": false,
+          "trimThinkInterval": false
+        },
+        "Razor_Hexenzirkel_C6_Buff": {
+          "onBeingHit": [],
+          "modifierMixins": [],
+          "onAvatarOut": [],
+          "onThinkInterval": [],
+          "duration": {
+            "__unk_Q2668214730": false
+          },
+          "onAttackLanded": [],
+          "onBeingHealed": [],
+          "stackingOption": {
+            "abilitySpecialName": "",
+            "maxModifierNumForMultipleType": {
+              "__unk_Q2668214730": false
+            },
+            "enableMixedUnique": false
+          },
+          "onAvatarIn": [],
+          "onHeal": [],
+          "onAdded": [],
+          "onRemoved": [],
+          "properties": {
+            "Actor_CriticalDelta": {
+              "__unk_Q2668214730": false
+            },
+            "Actor_CriticalHurtDelta": {
+              "__unk_Q2668214730": false
+            }
+          },
+          "onReconnect": [],
+          "onHittingOther": [],
+          "modifierName": "",
+          "thinkInterval": {
+            "__unk_Q2668214730": false
+          },
+          "onKill": [],
+          "elementDurability": {
+            "__unk_Q2668214730": false
+          },
+          "buffID": 0,
+          "overrideWeaponElement": false,
+          "state": "None",
+          "elementType": "None",
+          "timeScale": "Owner",
+          "fireEventWhenApply": false,
+          "stacking": "Refresh",
+          "isDurabilityGlobal": false,
+          "isElementDurabilityMutable": true,
+          "isLimitedProperties": true,
+          "purgeIncrement": 0,
+          "useDummyAbility": false,
+          "onThinkIntervalIsFixedUpdate": false,
+          "isUnique": false,
+          "trimThinkInterval": false
+        }
+      },
+      "abilityMixins": [
+        {
+          "$type": "AttachModifierToGlobalValueMixin",
+          "actionQueues": [],
+          "modifierNameSteps": [
+            "Razor_Hexenzirkel_TwoHex_Handler"
+          ],
+          "globalValueKey": "SGV_HexenzirkelLevel",
+          "otherTargets": {
+            "entityTypePriority": [],
+            "topLimit": 0,
+            "sortType": "Default"
+          },
+          "valueSteps": [
+            {
+              "__unk_Q2668214730": false
+            },
+            {
+              "__unk_Q2668214730": false
+            }
+          ],
+          "removeAppliedModifier": true,
+          "globalValueTarget": "Team",
+          "__unk_Q3695777311": false,
+          "isUnique": false,
+          "__unk_Q4125547569": -1
+        }
+      ],
+      "isDynamicAbility": false
+    }
   }
 ]
